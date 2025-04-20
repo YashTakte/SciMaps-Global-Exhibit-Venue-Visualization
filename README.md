@@ -38,13 +38,7 @@ This repository contains a collection of interactive and static visualizations d
 
 ![Network Graph (SciMaps) - Static](https://github.com/user-attachments/assets/7a751b52-5b64-4653-92e0-c6aaf3db6b62)
 
-### 5. Static Global Map
-- Country-colored map for overall event coverage.
-- Hover-enabled tooltips using Flourish.
-
-![Static Global Map - Static](https://github.com/user-attachments/assets/e6504c6b-3c22-49d9-b9b2-be0398badcb3)
-
-### 6. Power BI Dashboard
+### 5. Power BI Dashboard
 - Multi-chart dashboard for in-depth analysis.
 - Includes filters for year, country, and city.
 - Displays venue trends, counts, and durations.
