@@ -1,51 +1,86 @@
 # SciMaps: Global Exhibit Venue Visualization (2005–2025)
 
-This repository contains a collection of interactive and static visualizations developed for the *Places & Spaces: Mapping Science* client project. The goal is to showcase the global growth of exhibit venues over a 20-year period (2005–2025) using geospatial and temporal visualizations.
+This repository hosts the final deliverables for the *Places & Spaces: Mapping Science* client project, completed as part of Indiana University’s ENGR-E583/E483 Information Visualization course.  
+
+The project visualizes the global spread and network growth of exhibit venues over a 20-year period (2005–2025) using geospatial and temporal techniques.
 
 ---
 
-## Visualizations
+## Project Overview
+
+- **Goal:** To showcase the expansion of exhibit venues over time through interactive, engaging visualizations.
+- **Stakeholders:** Cyberinfrastructure for Network Science (CNS) Center, exhibit organizers, researchers, and funders.
+- **Data:** 483 exhibit records cleaned, standardized, and geocoded for global analysis.
+  
+---
+
+## Final Visualizations
 
 ### 1. Animated Timeline Map (Flourish)
-- An animated map showing the spread of global exhibit venues over time.
-- Interactive features include:
-  - Timeline slider to animate exhibit growth.
-  - Hover popups revealing title, location, and dates.
-  - Clickable legend to filter by countries.
+- Visualizes venue expansion year-by-year globally.
+- Features timeline slider, hover details, and country-level filters.
+- **Live Demo:** [View Animated Timeline Map](https://public.flourish.studio/visualisation/22489882/)
+  
+- **Screenshot:**
+  
+ ![Animated Timeline Map](https://github.com/user-attachments/assets/4d6ded02-df33-4640-8b99-0ea49493b40b)
 
-![Animated Timeline Map](https://github.com/user-attachments/assets/4d6ded02-df33-4640-8b99-0ea49493b40b)
+---
 
-
-### 2. Folium Interactive Map
-- Web map with cluster markers and popups for each exhibit.
-- Supports toggling layers:
-  - Time intervals (e.g., 2005–2009)
+### 2. Interactive Map (Folium)
+- Interactive web map with:
+  - Clustered markers
+  - Time interval filtering (e.g., 2005–2009)
   - Heatmap view
-  - All venues
+    
+- **Screenshot:**
+  
+  ![Global Exhibit Venues (Folium)](https://github.com/user-attachments/assets/09f06662-86f7-4896-aec2-3f1a329e0167)
 
-![Global Exhibit Venues (Folium)](https://github.com/user-attachments/assets/09f06662-86f7-4896-aec2-3f1a329e0167)
+---
 
-### 3. Heatmap (PowerBI)
+### 3. Global Heatmap (Power BI)
 - Highlights regions with dense exhibit activity.
-- Uses heat intensity to show exhibit frequency.
+- Shows hotspots using intensity color mapping.
+  
+- **Screenshot:**
+  
+  ![Global Heatmap](https://github.com/user-attachments/assets/3e1eed8f-a200-46e8-baf6-21c83190dc5f)
 
-![Global Heatmap](https://github.com/user-attachments/assets/3e1eed8f-a200-46e8-baf6-21c83190dc5f)
+---
 
-### 4. Network Graph (Flourish)
-- Shows connections between exhibit venues based on shared organizers.
-- Nodes are colored based on 5-year intervals.
-- Interactive legend and hover tooltips enabled.
+### 4. Exhibit Network Graph (Flourish)
+- Visualizes venue connections through shared organizers.
+- Node colors represent different 5-year time intervals.
+- Interactive filtering and hover tooltips enabled.
+- **Live Demo:** [View Exhibit Network Graph](https://public.flourish.studio/visualisation/22489971/)
+  
+- **Screenshot:**
+  
+  ![Network Graph (SciMaps) - Static](https://github.com/user-attachments/assets/7a751b52-5b64-4653-92e0-c6aaf3db6b62)
 
-![Network Graph (SciMaps) - Static](https://github.com/user-attachments/assets/7a751b52-5b64-4653-92e0-c6aaf3db6b62)
+---
 
-### 5. Power BI Dashboard
-- Multi-chart dashboard for in-depth analysis.
-- Includes filters for year, country, and city.
-- Displays venue trends, counts, and durations.
+### 5. Overlay Analysis (Kepler.gl)
+- Combines geospatial and network data into one integrated visualization.
+- Allows filtering by year using an animated timeline slicer.
+- Explore venue connections dynamically across time.
+  
+- **Screenshot:**
 
-![Dashboard](https://github.com/user-attachments/assets/818ef916-13c5-4ffb-b2d7-dabc13a9a9cc)
+  ![Overlay Analysis](https://github.com/user-attachments/assets/e32eebd2-ea3a-44fd-92db-9cc3d98cc604)
+
+---
+
+### 6. Power BI Dashboard
+- Summarizes venue trends, country distributions, and event durations.
+- Includes filters for year, month, country, and city.
+  
+- **Screenshot:**
+  
+  ![Dashboard](https://github.com/user-attachments/assets/818ef916-13c5-4ffb-b2d7-dabc13a9a9cc)
 
 ---
 
 ## License
-This repository is for academic use under Indiana University’s ENGR-E583 Information Visualization course.
+This repository is for academic use only under Indiana University Bloomington’s ENGR-E583/E483 Information Visualization course (Spring 2025).
