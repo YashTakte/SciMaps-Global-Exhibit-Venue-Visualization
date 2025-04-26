@@ -42,6 +42,7 @@ The project visualizes the global spread and network growth of exhibit venues ov
 ### 3. Global Heatmap (Power BI)
 - Highlights regions with dense exhibit activity.
 - Shows hotspots using intensity color mapping.
+- **Live Demo:** [View the Global Heatmap](https://app.powerbi.com/view?r=eyJrIjoiMzg0NjY5NTEtOTBkNC00ODQxLTliOTEtZWE1ODFhN2Q4OTk0IiwidCI6IjExMTNiZTM0LWFlZDEtNGQwMC1hYjRiLWNkZDAyNTEwYmU5MSIsImMiOjN9)
   
 - **Screenshot:**
   
@@ -75,6 +76,8 @@ The project visualizes the global spread and network growth of exhibit venues ov
 ### 6. Power BI Dashboard
 - Summarizes venue trends, country distributions, and event durations.
 - Includes filters for year, month, country, and city.
+- **Live Demo:** [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWUzMzM3NGQtYjg0ZS00Mjg4LWI0YzUtNWYzMmYwOGIwODBiIiwidCI6IjExMTNiZTM0LWFlZDEtNGQwMC1hYjRiLWNkZDAyNTEwYmU5MSIsImMiOjN9
+)
   
 - **Screenshot:**
   
