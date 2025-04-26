@@ -93,5 +93,10 @@ A visual summary capturing the key concepts and workflow of this project.
 
 ---
 
+## Acknowledgements
+We acknowledge the Cyberinfrastructure for Network Science (CNS) Center and Lisel Record for their continuous feedback, support, and access to the dataset.
+
+---
+
 ## License
 This repository is for academic use only under Indiana University Bloomington’s ENGR-E583/E483 Information Visualization course (Spring 2025).
