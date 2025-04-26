@@ -77,7 +77,7 @@ A visual summary capturing the key concepts and workflow of this project.
   
 - **Screenshot:**
 
-  ![Overlay Analysis](https://github.com/user-attachments/assets/e32eebd2-ea3a-44fd-92db-9cc3d98cc604)
+  ![Overlay Analysis](https://github.com/user-attachments/assets/0d16059f-96fe-4697-a256-fb4431c6152d)
 
 ---
 
