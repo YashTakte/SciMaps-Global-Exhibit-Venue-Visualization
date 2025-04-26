@@ -2,7 +2,7 @@
 
 This repository hosts the final deliverables for the *Places & Spaces: Mapping Science* client project, completed as part of Indiana University’s ENGR-E583/E483 Information Visualization course.  
 
-The project visualizes the global spread and network growth of exhibit venues over a 20-year period (2005–2025) using geospatial and temporal techniques.
+The project visualizes the global spread and network growth of exhibit venues over a 20-year period (2005–2025) using using geospatial, network, and time-based analysis techniques.
 
 ---
 
