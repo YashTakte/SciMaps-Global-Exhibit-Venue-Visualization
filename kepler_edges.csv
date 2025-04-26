@@ -1,0 +1,860 @@
+Source,Target,Organizer,Weight,Interval,src_lat,src_lon,tgt_lat,tgt_lon,Source_Year,Target_Year,Edge_Year,Edge_Year (Time)
+National Academy of Science Workshop_2010,Workshop_2010,Katy Borner,2,2010 to 2014,38.89764651,-77.03618487,38.89652172,-77.03893099,2010,2010,2010,2010-01-01 00:00:00
+Monroe County Public Library_2007,New York Hall of Science_2006,Katy Borner,2,2005 to 2009,39.16875769,-86.53432796,40.71384544,-73.82887484,2007,2006,2006,2006-01-01 00:00:00
+National Academy of Science Workshop_2010,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,38.89764651,-77.03618487,38.89117267,-77.03555228,2010,2013,2010,2010-01-01 00:00:00
+Monroe County Public Library_2007,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,39.76552166,-86.16352641,2007,2005,2005,2005-01-01 00:00:00
+National Academy of Science Workshop_2010,National Academy of Sciences_2011,Katy Borner,1,2010 to 2014,38.89764651,-77.03618487,38.87560932,-77.09326177,2010,2011,2010,2010-01-01 00:00:00
+National Academy of Science Workshop_2010,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,38.89764651,-77.03618487,38.88880811,-77.04481698,2010,2012,2010,2010-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,ESRI DC Office Vienna_2005,Deborah MacPherson,1,2005 to 2009,39.74171997,-104.9951992,38.88641221,-77.03707785,2005,2005,2005,2005-01-01 00:00:00
+Monroe County Public Library_2007,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,52.36888351,4.888075309,2007,2007,2007,2007-01-01 00:00:00
+Monroe County Public Library_2007,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,40.71529336,-73.82546021,2007,2008,2007,2007-01-01 00:00:00
+Monroe County Public Library_2007,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,40.70391394,-73.82247429,2007,2009,2007,2007-01-01 00:00:00
+Monroe County Public Library_2007,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,36.01216318,-84.27083964,2007,2008,2007,2007-01-01 00:00:00
+Monroe County Public Library_2007,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,32.83022446,-117.2713609,2007,2008,2007,2007-01-01 00:00:00
+Monroe County Public Library_2007,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,60.17160082,24.94563008,2007,2006,2006,2006-01-01 00:00:00
+Monroe County Public Library_2007,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,39.77021159,-86.16122929,2007,2006,2006,2006-01-01 00:00:00
+Monroe County Public Library_2007,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,33.74598921,-84.39163966,2007,2006,2006,2006-01-01 00:00:00
+Monroe County Public Library_2007,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,40.06909293,-88.22313709,2007,2005,2005,2005-01-01 00:00:00
+Kavli Royal Society International Center_2010,National Academy of Science Workshop_2010,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,38.89764651,-77.03618487,2010,2010,2010,2010-01-01 00:00:00
+National Academy of Sciences_2011,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,38.87560932,-77.09326177,38.88880811,-77.04481698,2011,2012,2011,2011-01-01 00:00:00
+National Academy of Sciences_2011,Northwestern University_2011,Katy Borner,1,2010 to 2014,38.87560932,-77.09326177,41.87198984,-87.62931502,2011,2011,2011,2011-01-01 00:00:00
+National Academy of Sciences_2011,Purdue University_2011,Katy Borner,1,2010 to 2014,38.87560932,-77.09326177,39.77161587,-86.16296103,2011,2011,2011,2011-01-01 00:00:00
+National Academy of Sciences_2011,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,38.87560932,-77.09326177,38.89117267,-77.03555228,2011,2013,2011,2011-01-01 00:00:00
+National Academy of Science Workshop_2010,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,38.89764651,-77.03618487,38.89126812,-77.03682062,2010,2011,2010,2010-01-01 00:00:00
+National Academy of Science Workshop_2010,Northwestern University_2011,Katy Borner,1,2010 to 2014,38.89764651,-77.03618487,41.87198984,-87.62931502,2010,2011,2010,2010-01-01 00:00:00
+National Academy of Science Workshop_2010,Purdue University_2011,Katy Borner,1,2010 to 2014,38.89764651,-77.03618487,39.77161587,-86.16296103,2010,2011,2010,2010-01-01 00:00:00
+National Academy of Science Workshop_2010,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,38.89764651,-77.03618487,35.69154502,-105.9316778,2010,2011,2010,2010-01-01 00:00:00
+National Academy of Science Workshop_2010,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,38.89764651,-77.03618487,40.44276457,-79.99514662,2010,2012,2010,2010-01-01 00:00:00
+National Academy of Science Workshop_2010,UCD Conference_2010,Katy Borner,1,2010 to 2014,38.89764651,-77.03618487,53.35328861,-6.264808522,2010,2010,2010,2010-01-01 00:00:00
+National Academy of Science Workshop_2010,University of Florida_2010,Katy Borner,1,2010 to 2014,38.89764651,-77.03618487,29.64945102,-82.31660241,2010,2010,2010,2010-01-01 00:00:00
+National Academy of Science Workshop_2010,University of North Carolina_2011,Katy Borner,1,2010 to 2014,38.89764651,-77.03618487,35.23202548,-80.84695165,2010,2011,2010,2010-01-01 00:00:00
+Monroe County Public Library_2007,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,40.86115082,-73.43750812,2007,2006,2006,2006-01-01 00:00:00
+Monroe County Public Library_2007,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,35.67535458,139.7567834,2007,2007,2007,2007-01-01 00:00:00
+Kavli Royal Society International Center_2010,University of Florida_2010,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,29.64945102,-82.31660241,2010,2010,2010,2010-01-01 00:00:00
+Kavli Royal Society International Center_2010,UCD Conference_2010,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,53.35328861,-6.264808522,2010,2010,2010,2010-01-01 00:00:00
+Kavli Royal Society International Center_2010,University of North Carolina_2011,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,35.23202548,-80.84695165,2010,2011,2010,2010-01-01 00:00:00
+Kavli Royal Society International Center_2010,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,40.44276457,-79.99514662,2010,2012,2010,2010-01-01 00:00:00
+Kavli Royal Society International Center_2010,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,38.89126812,-77.03682062,2010,2011,2010,2010-01-01 00:00:00
+Kavli Royal Society International Center_2010,Workshop_2010,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,38.89652172,-77.03893099,2010,2010,2010,2010-01-01 00:00:00
+Modeling Science Workshop_2009,Monroe County Public Library_2007,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,39.16875769,-86.53432796,2009,2007,2007,2007-01-01 00:00:00
+Kavli Royal Society International Center_2010,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,35.69154502,-105.9316778,2010,2011,2010,2010-01-01 00:00:00
+Kavli Royal Society International Center_2010,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,38.89117267,-77.03555228,2010,2013,2010,2010-01-01 00:00:00
+Kavli Royal Society International Center_2010,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,38.88880811,-77.04481698,2010,2012,2010,2010-01-01 00:00:00
+Kavli Royal Society International Center_2010,Northwestern University_2011,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,41.87198984,-87.62931502,2010,2011,2010,2010-01-01 00:00:00
+Kavli Royal Society International Center_2010,Purdue University_2011,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,39.77161587,-86.16296103,2010,2011,2010,2010-01-01 00:00:00
+Modeling Science Workshop_2009,National Cancer Institute_2006,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,38.88893258,-77.03498645,2009,2006,2006,2006-01-01 00:00:00
+Monroe County Public Library_2007,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,35.67628186,139.7601129,2007,2007,2007,2007-01-01 00:00:00
+Modeling Science Workshop_2009,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,52.38009357,4.89845947,33.74598921,-84.39163966,2009,2006,2006,2006-01-01 00:00:00
+Modeling Science Workshop_2009,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,39.76552166,-86.16352641,2009,2005,2005,2005-01-01 00:00:00
+Monroe County Public Library_2007,National Cancer Institute_2006,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,38.88893258,-77.03498645,2007,2006,2006,2006-01-01 00:00:00
+Monroe County Public Library_2007,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,39.16875769,-86.53432796,29.55674144,-98.53572578,2007,2005,2005,2005-01-01 00:00:00
+Modeling Science Workshop_2009,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,40.06909293,-88.22313709,2009,2005,2005,2005-01-01 00:00:00
+Modeling Science Workshop_2009,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,52.38009357,4.89845947,39.77021159,-86.16122929,2009,2006,2006,2006-01-01 00:00:00
+Modeling Science Workshop_2009,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,29.55674144,-98.53572578,2009,2005,2005,2005-01-01 00:00:00
+Modeling Science Workshop_2009,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,40.71529336,-73.82546021,2009,2008,2008,2008-01-01 00:00:00
+Modeling Science Workshop_2009,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,35.67628186,139.7601129,2009,2007,2007,2007-01-01 00:00:00
+Modeling Science Workshop_2009,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,35.67535458,139.7567834,2009,2007,2007,2007-01-01 00:00:00
+Modeling Science Workshop_2009,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,52.38009357,4.89845947,40.86115082,-73.43750812,2009,2006,2006,2006-01-01 00:00:00
+Modeling Science Workshop_2009,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,52.36888351,4.888075309,2009,2007,2007,2007-01-01 00:00:00
+Modeling Science Workshop_2009,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,40.71384544,-73.82887484,2009,2006,2006,2006-01-01 00:00:00
+Modeling Science Workshop_2009,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,40.70391394,-73.82247429,2009,2009,2009,2009-01-01 00:00:00
+Modeling Science Workshop_2009,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,36.01216318,-84.27083964,2009,2008,2008,2008-01-01 00:00:00
+Modeling Science Workshop_2009,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,32.83022446,-117.2713609,2009,2008,2008,2008-01-01 00:00:00
+Modeling Science Workshop_2009,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,52.38009357,4.89845947,60.17160082,24.94563008,2009,2006,2006,2006-01-01 00:00:00
+National Academy of Sciences_2011,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,38.87560932,-77.09326177,35.69154502,-105.9316778,2011,2011,2011,2011-01-01 00:00:00
+National Institute of Informatics_2005,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,39.76552166,-86.16352641,2005,2005,2005,2005-01-01 00:00:00
+National Institute of Informatics_2007,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,35.67628186,139.7601129,35.67535458,139.7567834,2007,2007,2007,2007-01-01 00:00:00
+National Institute of Informatics_2007,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,35.67628186,139.7601129,40.86115082,-73.43750812,2007,2006,2006,2006-01-01 00:00:00
+National Institute of Informatics_2007,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,35.67628186,139.7601129,52.36888351,4.888075309,2007,2007,2007,2007-01-01 00:00:00
+National Institute of Informatics_2007,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,35.67628186,139.7601129,40.71384544,-73.82887484,2007,2006,2006,2006-01-01 00:00:00
+National Institute of Informatics_2007,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,35.67628186,139.7601129,40.71529336,-73.82546021,2007,2008,2007,2007-01-01 00:00:00
+National Institute of Informatics_2007,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,35.67628186,139.7601129,40.70391394,-73.82247429,2007,2009,2007,2007-01-01 00:00:00
+National Institute of Informatics_2007,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,35.67628186,139.7601129,36.01216318,-84.27083964,2007,2008,2007,2007-01-01 00:00:00
+National Institute of Informatics_2005,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,52.36888351,4.888075309,2005,2007,2005,2005-01-01 00:00:00
+National Institute of Informatics_2005,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,40.71384544,-73.82887484,2005,2006,2005,2005-01-01 00:00:00
+National Institute of Informatics_2005,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,40.71529336,-73.82546021,2005,2008,2005,2005-01-01 00:00:00
+National Institute of Informatics_2005,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,40.70391394,-73.82247429,2005,2009,2005,2005-01-01 00:00:00
+National Institute of Informatics_2005,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,36.01216318,-84.27083964,2005,2008,2005,2005-01-01 00:00:00
+National Institute of Informatics_2005,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,32.83022446,-117.2713609,2005,2008,2005,2005-01-01 00:00:00
+National Institute of Informatics_2005,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,60.17160082,24.94563008,2005,2006,2005,2005-01-01 00:00:00
+National Institute of Informatics_2005,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,39.77021159,-86.16122929,2005,2006,2005,2005-01-01 00:00:00
+National Institute of Informatics_2005,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,33.74598921,-84.39163966,2005,2006,2005,2005-01-01 00:00:00
+National Institute of Informatics_2005,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,40.06909293,-88.22313709,2005,2005,2005,2005-01-01 00:00:00
+National Institute of Informatics_2007,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,35.67628186,139.7601129,32.83022446,-117.2713609,2007,2008,2007,2007-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,35.67535458,139.7567834,60.17160082,24.94563008,2007,2006,2006,2006-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,35.67535458,139.7567834,40.70391394,-73.82247429,2007,2009,2007,2007-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,35.67535458,139.7567834,36.01216318,-84.27083964,2007,2008,2007,2007-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,35.67535458,139.7567834,32.83022446,-117.2713609,2007,2008,2007,2007-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,35.67535458,139.7567834,40.71384544,-73.82887484,2007,2006,2006,2006-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,35.67535458,139.7567834,39.77021159,-86.16122929,2007,2006,2006,2006-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,35.67535458,139.7567834,33.74598921,-84.39163966,2007,2006,2006,2006-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,35.67535458,139.7567834,40.06909293,-88.22313709,2007,2005,2005,2005-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,35.67535458,139.7567834,40.71529336,-73.82546021,2007,2008,2007,2007-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,35.67535458,139.7567834,52.36888351,4.888075309,2007,2007,2007,2007-01-01 00:00:00
+National Institute of Informatics_2007,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,35.67628186,139.7601129,60.17160082,24.94563008,2007,2006,2006,2006-01-01 00:00:00
+National Institute of Informatics_2007,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,35.67628186,139.7601129,39.77021159,-86.16122929,2007,2006,2006,2006-01-01 00:00:00
+National Institute of Informatics_2007,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,35.67628186,139.7601129,33.74598921,-84.39163966,2007,2006,2006,2006-01-01 00:00:00
+National Institute of Informatics_2007,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,35.67628186,139.7601129,40.06909293,-88.22313709,2007,2005,2005,2005-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,35.67535458,139.7567834,40.86115082,-73.43750812,2007,2006,2006,2006-01-01 00:00:00
+National Institute of Informatics_2007,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,35.67628186,139.7601129,39.76552166,-86.16352641,2007,2005,2005,2005-01-01 00:00:00
+National Institute of Informatics_2005,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,40.86115082,-73.43750812,2005,2006,2005,2005-01-01 00:00:00
+National Institute of Informatics_2005,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,35.67535458,139.7567834,2005,2007,2005,2005-01-01 00:00:00
+National Academy of Sciences_2013,Northwestern University_2011,Katy Borner,1,2010 to 2014,38.89117267,-77.03555228,41.87198984,-87.62931502,2013,2011,2011,2011-01-01 00:00:00
+National Academy of Sciences_2013,Purdue University_2011,Katy Borner,1,2010 to 2014,38.89117267,-77.03555228,39.77161587,-86.16296103,2013,2011,2011,2011-01-01 00:00:00
+National Academy of Sciences_2013,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,38.89117267,-77.03555228,35.69154502,-105.9316778,2013,2011,2011,2011-01-01 00:00:00
+National Academy of Sciences_2013,UCD Conference_2010,Katy Borner,1,2010 to 2014,38.89117267,-77.03555228,53.35328861,-6.264808522,2013,2010,2010,2010-01-01 00:00:00
+National Academy of Sciences_2013,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,38.89117267,-77.03555228,38.88880811,-77.04481698,2013,2012,2012,2012-01-01 00:00:00
+National Academy of Sciences_2011,University of North Carolina_2011,Katy Borner,1,2010 to 2014,38.87560932,-77.09326177,35.23202548,-80.84695165,2011,2011,2011,2011-01-01 00:00:00
+National Academy of Sciences_2011,UCD Conference_2010,Katy Borner,1,2010 to 2014,38.87560932,-77.09326177,53.35328861,-6.264808522,2011,2010,2010,2010-01-01 00:00:00
+National Academy of Sciences_2011,University of Florida_2010,Katy Borner,1,2010 to 2014,38.87560932,-77.09326177,29.64945102,-82.31660241,2011,2010,2010,2010-01-01 00:00:00
+National Academy of Sciences_2011,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,38.87560932,-77.09326177,40.44276457,-79.99514662,2011,2012,2011,2011-01-01 00:00:00
+National Academy of Sciences_2011,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,38.87560932,-77.09326177,38.89126812,-77.03682062,2011,2011,2011,2011-01-01 00:00:00
+National Academy of Sciences_2011,Workshop_2010,Katy Borner,1,2010 to 2014,38.87560932,-77.09326177,38.89652172,-77.03893099,2011,2010,2010,2010-01-01 00:00:00
+National Academy of Sciences_2013,University of Florida_2010,Katy Borner,1,2010 to 2014,38.89117267,-77.03555228,29.64945102,-82.31660241,2013,2010,2010,2010-01-01 00:00:00
+National Institute of Informatics_2005,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,29.55674144,-98.53572578,35.67628186,139.7601129,2005,2007,2005,2005-01-01 00:00:00
+National Cancer Institute_2006,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,60.17160082,24.94563008,2006,2006,2006,2006-01-01 00:00:00
+National Cancer Institute_2006,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,39.77021159,-86.16122929,2006,2006,2006,2006-01-01 00:00:00
+National Cancer Institute_2006,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,33.74598921,-84.39163966,2006,2006,2006,2006-01-01 00:00:00
+National Cancer Institute_2006,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,40.06909293,-88.22313709,2006,2005,2005,2005-01-01 00:00:00
+National Cancer Institute_2006,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,39.76552166,-86.16352641,2006,2005,2005,2005-01-01 00:00:00
+National Cancer Institute_2006,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,32.83022446,-117.2713609,2006,2008,2006,2006-01-01 00:00:00
+National Academy of Sciences_2013,University of North Carolina_2011,Katy Borner,1,2010 to 2014,38.89117267,-77.03555228,35.23202548,-80.84695165,2013,2011,2011,2011-01-01 00:00:00
+National Cancer Institute_2006,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,35.67535458,139.7567834,2006,2007,2006,2006-01-01 00:00:00
+National Academy of Sciences_2013,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,38.89117267,-77.03555228,40.44276457,-79.99514662,2013,2012,2012,2012-01-01 00:00:00
+National Academy of Sciences_2013,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,38.89117267,-77.03555228,38.89126812,-77.03682062,2013,2011,2011,2011-01-01 00:00:00
+National Academy of Sciences_2013,Workshop_2010,Katy Borner,1,2010 to 2014,38.89117267,-77.03555228,38.89652172,-77.03893099,2013,2010,2010,2010-01-01 00:00:00
+National Cancer Institute_2006,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,29.55674144,-98.53572578,2006,2005,2005,2005-01-01 00:00:00
+National Cancer Institute_2006,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,35.67628186,139.7601129,2006,2007,2006,2006-01-01 00:00:00
+National Cancer Institute_2006,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,36.01216318,-84.27083964,2006,2008,2006,2006-01-01 00:00:00
+National Cancer Institute_2006,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,40.86115082,-73.43750812,2006,2006,2006,2006-01-01 00:00:00
+National Cancer Institute_2006,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,52.36888351,4.888075309,2006,2007,2006,2006-01-01 00:00:00
+National Cancer Institute_2006,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,40.71384544,-73.82887484,2006,2006,2006,2006-01-01 00:00:00
+National Cancer Institute_2006,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,40.71529336,-73.82546021,2006,2008,2006,2006-01-01 00:00:00
+National Cancer Institute_2006,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,38.88893258,-77.03498645,40.70391394,-73.82247429,2006,2009,2006,2006-01-01 00:00:00
+Kavli Royal Society International Center_2010,National Academy of Sciences_2011,Katy Borner,1,2010 to 2014,51.50084332,-0.132045719,38.87560932,-77.09326177,2010,2011,2010,2010-01-01 00:00:00
+Information Visualization Conference_2005,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,40.06909293,-88.22313709,2005,2005,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,39.76552166,-86.16352641,2005,2005,2005,2005-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",International Conference of the International Society for Scientometrics and Informetrics_2005,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,59.32783,18.07586921,2006,2005,2005,2005-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",International Conference on Complex Systems_2006,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,42.35014485,-71.06175618,2006,2006,2006,2006-01-01 00:00:00
+Information Visualization Conference_2005,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,33.74598921,-84.39163966,2005,2006,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,39.77021159,-86.16122929,2005,2006,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,40.71384544,-73.82887484,2005,2006,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,29.55674144,-98.53572578,2005,2005,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,35.67628186,139.7601129,2005,2007,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,35.67535458,139.7567834,2005,2007,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,40.86115082,-73.43750812,2005,2006,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,52.36888351,4.888075309,2005,2007,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,40.71529336,-73.82546021,2005,2008,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,60.17160082,24.94563008,2005,2006,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,40.70391394,-73.82247429,2005,2009,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,36.01216318,-84.27083964,2005,2008,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,32.83022446,-117.2713609,2005,2008,2005,2005-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",Modeling Science Workshop_2009,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,52.38009357,4.89845947,2006,2009,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",Monroe County Public Library_2007,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,39.16875769,-86.53432796,2006,2007,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006","State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,39.77021159,-86.16122929,2006,2006,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006","The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,33.74598921,-84.39163966,2006,2006,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,40.06909293,-88.22313709,2006,2005,2005,2005-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,60.17160082,24.94563008,2006,2006,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,39.76552166,-86.16352641,2006,2005,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,International Conference on Complex Systems_2006,Katy Borner,1,2005 to 2009,59.32783,18.07586921,42.35014485,-71.06175618,2005,2006,2005,2005-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",San Diego Marriott_2008,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,32.83022446,-117.2713609,2006,2008,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006","New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,40.86115082,-73.43750812,2006,2006,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",National Cancer Institute_2006,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,38.88893258,-77.03498645,2006,2006,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,29.55674144,-98.53572578,2006,2005,2005,2005-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,35.67628186,139.7601129,2006,2007,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,35.67535458,139.7567834,2006,2007,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,52.36888351,4.888075309,2006,2007,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",New York Hall of Science_2006,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,40.71384544,-73.82887484,2006,2006,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",New York Hall of Science_2008,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,40.71529336,-73.82546021,2006,2008,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",New York Hall of Science_2009,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,40.70391394,-73.82247429,2006,2009,2006,2006-01-01 00:00:00
+"Institute for the Future Workshop, Rockefeller Foundation_2006",OSTI Meeting_2008,Katy Borner,1,2005 to 2009,40.70697313,-74.00866771,36.01216318,-84.27083964,2006,2008,2006,2006-01-01 00:00:00
+Information Visualization Conference_2005,National Cancer Institute_2006,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,38.88893258,-77.03498645,2005,2006,2005,2005-01-01 00:00:00
+Indiana University_2014,Japan Science and Technology Agency_2010,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,35.67922806,139.752839,2014,2010,2010,2010-01-01 00:00:00
+Indiana University_2014,Kavli Royal Society International Center_2010,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,51.50084332,-0.132045719,2014,2010,2010,2010-01-01 00:00:00
+Indiana University_2012,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,38.89126812,-77.03682062,2012,2011,2011,2011-01-01 00:00:00
+Indiana University_2014,National Academy of Science Workshop_2010,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,38.89764651,-77.03618487,2014,2010,2010,2010-01-01 00:00:00
+Indiana University_2014,National Academy of Sciences_2011,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,38.87560932,-77.09326177,2014,2011,2011,2011-01-01 00:00:00
+Indiana University_2014,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,38.89117267,-77.03555228,2014,2013,2013,2013-01-01 00:00:00
+Indiana University_2012,Workshop_2010,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,38.89652172,-77.03893099,2012,2010,2010,2010-01-01 00:00:00
+Indiana University_2012,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,40.44276457,-79.99514662,2012,2012,2012,2012-01-01 00:00:00
+Indiana University_2012,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,35.69154502,-105.9316778,2012,2011,2011,2011-01-01 00:00:00
+Indiana University_2012,Northwestern University_2011,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,41.87198984,-87.62931502,2012,2011,2011,2011-01-01 00:00:00
+Indiana University_2012,Purdue University_2011,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,39.77161587,-86.16296103,2012,2011,2011,2011-01-01 00:00:00
+Indiana University_2012,University of North Carolina_2011,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,35.23202548,-80.84695165,2012,2011,2011,2011-01-01 00:00:00
+Indiana University_2012,UCD Conference_2010,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,53.35328861,-6.264808522,2012,2010,2010,2010-01-01 00:00:00
+Indiana University_2012,University of Florida_2010,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,29.64945102,-82.31660241,2012,2010,2010,2010-01-01 00:00:00
+Information Visualization Conference_2005,"Institute for the Future Workshop, Rockefeller Foundation_2006",Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,40.70697313,-74.00866771,2005,2006,2005,2005-01-01 00:00:00
+Indiana University_2014,University of Florida_2010,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,29.64945102,-82.31660241,2014,2010,2010,2010-01-01 00:00:00
+Indiana University_2014,University of North Carolina_2011,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,35.23202548,-80.84695165,2014,2011,2011,2011-01-01 00:00:00
+Indiana University_2014,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,40.44276457,-79.99514662,2014,2012,2012,2012-01-01 00:00:00
+Indiana University_2014,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,38.89126812,-77.03682062,2014,2011,2011,2011-01-01 00:00:00
+Indiana University_2014,Workshop_2010,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,38.89652172,-77.03893099,2014,2010,2010,2010-01-01 00:00:00
+Information Visualization Conference_2005,International Conference of the International Society for Scientometrics and Informetrics_2005,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,59.32783,18.07586921,2005,2005,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,International Conference on Complex Systems_2006,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,42.35014485,-71.06175618,2005,2006,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,Modeling Science Workshop_2009,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,52.38009357,4.89845947,2005,2009,2005,2005-01-01 00:00:00
+Information Visualization Conference_2005,Monroe County Public Library_2007,Katy Borner,1,2005 to 2009,51.51128277,-0.133061368,39.16875769,-86.53432796,2005,2007,2005,2005-01-01 00:00:00
+Indiana University_2014,UCD Conference_2010,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,53.35328861,-6.264808522,2014,2010,2010,2010-01-01 00:00:00
+Indiana University_2014,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,38.88880811,-77.04481698,2014,2012,2012,2012-01-01 00:00:00
+Indiana University_2014,Northwestern University_2011,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,41.87198984,-87.62931502,2014,2011,2011,2011-01-01 00:00:00
+Indiana University_2014,Purdue University_2011,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,39.77161587,-86.16296103,2014,2011,2011,2011-01-01 00:00:00
+Indiana University_2014,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,39.15988889,-86.52580582,35.69154502,-105.9316778,2014,2011,2011,2011-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,Modeling Science Workshop_2009,Katy Borner,1,2005 to 2009,59.32783,18.07586921,52.38009357,4.89845947,2005,2009,2005,2005-01-01 00:00:00
+Japan Science and Technology Agency_2010,Kavli Royal Society International Center_2010,Katy Borner,1,2010 to 2014,35.67922806,139.752839,51.50084332,-0.132045719,2010,2010,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,35.67922806,139.752839,35.69154502,-105.9316778,2010,2011,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,UCD Conference_2010,Katy Borner,1,2010 to 2014,35.67922806,139.752839,53.35328861,-6.264808522,2010,2010,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,University of Florida_2010,Katy Borner,1,2010 to 2014,35.67922806,139.752839,29.64945102,-82.31660241,2010,2010,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,University of North Carolina_2011,Katy Borner,1,2010 to 2014,35.67922806,139.752839,35.23202548,-80.84695165,2010,2011,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,35.67922806,139.752839,40.44276457,-79.99514662,2010,2012,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,35.67922806,139.752839,38.89126812,-77.03682062,2010,2011,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,Workshop_2010,Katy Borner,1,2010 to 2014,35.67922806,139.752839,38.89652172,-77.03893099,2010,2010,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,Purdue University_2011,Katy Borner,1,2010 to 2014,35.67922806,139.752839,39.77161587,-86.16296103,2010,2011,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,National Academy of Science Workshop_2010,Katy Borner,1,2010 to 2014,35.67922806,139.752839,38.89764651,-77.03618487,2010,2010,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,National Academy of Sciences_2011,Katy Borner,1,2010 to 2014,35.67922806,139.752839,38.87560932,-77.09326177,2010,2011,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,35.67922806,139.752839,38.89117267,-77.03555228,2010,2013,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,35.67922806,139.752839,38.88880811,-77.04481698,2010,2012,2010,2010-01-01 00:00:00
+Japan Science and Technology Agency_2010,Northwestern University_2011,Katy Borner,1,2010 to 2014,35.67922806,139.752839,41.87198984,-87.62931502,2010,2011,2010,2010-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,Monroe County Public Library_2007,Katy Borner,1,2005 to 2009,59.32783,18.07586921,39.16875769,-86.53432796,2005,2007,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,59.32783,18.07586921,60.17160082,24.94563008,2005,2006,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,59.32783,18.07586921,39.77021159,-86.16122929,2005,2006,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,59.32783,18.07586921,33.74598921,-84.39163966,2005,2006,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,59.32783,18.07586921,40.06909293,-88.22313709,2005,2005,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,59.32783,18.07586921,39.76552166,-86.16352641,2005,2005,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,59.32783,18.07586921,32.83022446,-117.2713609,2005,2008,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,59.32783,18.07586921,35.67535458,139.7567834,2005,2007,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,National Cancer Institute_2006,Katy Borner,1,2005 to 2009,59.32783,18.07586921,38.88893258,-77.03498645,2005,2006,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,59.32783,18.07586921,29.55674144,-98.53572578,2005,2005,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,59.32783,18.07586921,35.67628186,139.7601129,2005,2007,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,59.32783,18.07586921,36.01216318,-84.27083964,2005,2008,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,59.32783,18.07586921,40.86115082,-73.43750812,2005,2006,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,59.32783,18.07586921,52.36888351,4.888075309,2005,2007,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,59.32783,18.07586921,40.71384544,-73.82887484,2005,2006,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,59.32783,18.07586921,40.71529336,-73.82546021,2005,2008,2005,2005-01-01 00:00:00
+International Conference of the International Society for Scientometrics and Informetrics_2005,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,59.32783,18.07586921,40.70391394,-73.82247429,2005,2009,2005,2005-01-01 00:00:00
+International Conference on Complex Systems_2006,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,39.76552166,-86.16352641,2006,2005,2005,2005-01-01 00:00:00
+International Conference on Complex Systems_2006,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,32.83022446,-117.2713609,2006,2008,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,60.17160082,24.94563008,2006,2006,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,39.77021159,-86.16122929,2006,2006,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,33.74598921,-84.39163966,2006,2006,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,40.06909293,-88.22313709,2006,2005,2005,2005-01-01 00:00:00
+International Conference on Complex Systems_2006,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,36.01216318,-84.27083964,2006,2008,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,Modeling Science Workshop_2009,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,52.38009357,4.89845947,2006,2009,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,35.67628186,139.7601129,2006,2007,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,Monroe County Public Library_2007,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,39.16875769,-86.53432796,2006,2007,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,National Cancer Institute_2006,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,38.88893258,-77.03498645,2006,2006,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,29.55674144,-98.53572578,2006,2005,2005,2005-01-01 00:00:00
+International Conference on Complex Systems_2006,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,35.67535458,139.7567834,2006,2007,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,40.86115082,-73.43750812,2006,2006,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,52.36888351,4.888075309,2006,2007,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,40.71384544,-73.82887484,2006,2006,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,40.71529336,-73.82546021,2006,2008,2006,2006-01-01 00:00:00
+International Conference on Complex Systems_2006,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,42.35014485,-71.06175618,40.70391394,-73.82247429,2006,2009,2006,2006-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,National Institutes of Health_2006,Deborah MacPherson,1,2005 to 2009,39.74171997,-104.9951992,38.89559141,-77.03275516,2005,2006,2005,2005-01-01 00:00:00
+University of Florida_2010,University of North Carolina_2011,Katy Borner,1,2010 to 2014,29.64945102,-82.31660241,35.23202548,-80.84695165,2010,2011,2010,2010-01-01 00:00:00
+Libraries and Research: Supporting Change/Changing Support_2014,Meertens Institute_2012,Andrea Scharnhorst,1,2010 to 2014,52.38369038,4.895418906,52.37196229,4.887505376,2014,2012,2012,2012-01-01 00:00:00
+Libraries and Research: Supporting Change/Changing Support_2014,OCLC Research and DANS_2014,Andrea Scharnhorst,1,2010 to 2014,52.38369038,4.895418906,52.37766891,4.895533078,2014,2014,2014,2014-01-01 00:00:00
+Libraries and Research: Supporting Change/Changing Support_2014,Open Knowledge Conference (OKCON)_2013,Andrea Scharnhorst,1,2010 to 2014,52.38369038,4.895418906,46.19369232,6.147133551,2014,2013,2013,2013-01-01 00:00:00
+Libraries and Research: Supporting Change/Changing Support_2014,The Hague Royal Library_2013,Andrea Scharnhorst,1,2010 to 2014,52.38369038,4.895418906,52.07640728,4.317576526,2014,2013,2013,2013-01-01 00:00:00
+Libraries and Research: Supporting Change/Changing Support_2014,Universite de Lille_2013,Andrea Scharnhorst,1,2010 to 2014,52.38369038,4.895418906,50.64036025,3.063407575,2014,2013,2013,2013-01-01 00:00:00
+Libraries and Research: Supporting Change/Changing Support_2014,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,52.38369038,4.895418906,44.01650106,10.44802788,2014,2014,2014,2014-01-01 00:00:00
+Libraries and Research: Supporting Change/Changing Support_2014,Lorentz Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,52.38369038,4.895418906,52.15780219,4.489010196,2014,2014,2014,2014-01-01 00:00:00
+Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,44.01657981,10.45370823,44.01650106,10.44802788,2013,2014,2013,2013-01-01 00:00:00
+Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,Libraries and Research: Supporting Change/Changing Support_2014,Andrea Scharnhorst,1,2010 to 2014,44.01657981,10.45370823,52.38369038,4.895418906,2013,2014,2013,2013-01-01 00:00:00
+Delft University of Technology Library_2013,OCLC Research and DANS_2014,Andrea Scharnhorst,1,2010 to 2014,52.0145713,4.367151352,52.37766891,4.895533078,2013,2014,2013,2013-01-01 00:00:00
+Delft University of Technology Library_2013,Open Knowledge Conference (OKCON)_2013,Andrea Scharnhorst,1,2010 to 2014,52.0145713,4.367151352,46.19369232,6.147133551,2013,2013,2013,2013-01-01 00:00:00
+Delft University of Technology Library_2013,The Hague Royal Library_2013,Andrea Scharnhorst,1,2010 to 2014,52.0145713,4.367151352,52.07640728,4.317576526,2013,2013,2013,2013-01-01 00:00:00
+Delft University of Technology Library_2013,Universite de Lille_2013,Andrea Scharnhorst,1,2010 to 2014,52.0145713,4.367151352,50.64036025,3.063407575,2013,2013,2013,2013-01-01 00:00:00
+Delft University of Technology Library_2013,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,52.0145713,4.367151352,44.01650106,10.44802788,2013,2014,2013,2013-01-01 00:00:00
+Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,Lorentz Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,44.01657981,10.45370823,52.15780219,4.489010196,2013,2014,2013,2013-01-01 00:00:00
+Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,Meertens Institute_2012,Andrea Scharnhorst,1,2010 to 2014,44.01657981,10.45370823,52.37196229,4.887505376,2013,2012,2012,2012-01-01 00:00:00
+Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,OCLC Research and DANS_2014,Andrea Scharnhorst,1,2010 to 2014,44.01657981,10.45370823,52.37766891,4.895533078,2013,2014,2013,2013-01-01 00:00:00
+Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,Open Knowledge Conference (OKCON)_2013,Andrea Scharnhorst,1,2010 to 2014,44.01657981,10.45370823,46.19369232,6.147133551,2013,2013,2013,2013-01-01 00:00:00
+Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,The Hague Royal Library_2013,Andrea Scharnhorst,1,2010 to 2014,44.01657981,10.45370823,52.07640728,4.317576526,2013,2013,2013,2013-01-01 00:00:00
+Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,Universite de Lille_2013,Andrea Scharnhorst,1,2010 to 2014,44.01657981,10.45370823,50.64036025,3.063407575,2013,2013,2013,2013-01-01 00:00:00
+Lorentz Workshop_2014,Meertens Institute_2012,Andrea Scharnhorst,1,2010 to 2014,52.15780219,4.489010196,52.37196229,4.887505376,2014,2012,2012,2012-01-01 00:00:00
+Lorentz Workshop_2014,OCLC Research and DANS_2014,Andrea Scharnhorst,1,2010 to 2014,52.15780219,4.489010196,52.37766891,4.895533078,2014,2014,2014,2014-01-01 00:00:00
+Lorentz Workshop_2014,Open Knowledge Conference (OKCON)_2013,Andrea Scharnhorst,1,2010 to 2014,52.15780219,4.489010196,46.19369232,6.147133551,2014,2013,2013,2013-01-01 00:00:00
+"SLIS, Indiana University_2005",Sixth Annual Alliance for Innovation in Science and Technology Information Mini-Conference_2005,Peter A. Hook,1,2005 to 2009,39.17027804,-86.54081045,35.68643892,-105.9431554,2005,2005,2005,2005-01-01 00:00:00
+The Hague Royal Library_2013,Universite de Lille_2013,Andrea Scharnhorst,1,2010 to 2014,52.07640728,4.317576526,50.64036025,3.063407575,2013,2013,2013,2013-01-01 00:00:00
+The Hague Royal Library_2013,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,52.07640728,4.317576526,44.01650106,10.44802788,2013,2014,2013,2013-01-01 00:00:00
+Universite de Lille_2013,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,50.64036025,3.063407575,44.01650106,10.44802788,2013,2014,2013,2013-01-01 00:00:00
+"SLIS, Indiana University_2005",University of Illinois_2005,Peter A. Hook,1,2005 to 2009,39.17027804,-86.54081045,40.07498368,-88.22148042,2005,2005,2005,2005-01-01 00:00:00
+Sixth Annual Alliance for Innovation in Science and Technology Information Mini-Conference_2005,University of Illinois_2005,Peter A. Hook,1,2005 to 2009,35.68643892,-105.9431554,40.07498368,-88.22148042,2005,2005,2005,2005-01-01 00:00:00
+National Academies_2007,San Diego Convention Center_2005,Bonnie DeVarco,1,2005 to 2009,37.33715061,-121.8953687,32.71510311,-117.1677006,2007,2005,2005,2005-01-01 00:00:00
+National Academies_2007,San Diego University_2005,Bonnie DeVarco,1,2005 to 2009,37.33715061,-121.8953687,32.72531626,-117.1653413,2007,2005,2005,2005-01-01 00:00:00
+National Academies_2007,The 5th International Symposium on Digital Earth_2007,Bonnie DeVarco,1,2005 to 2009,37.33715061,-121.8953687,37.7844138,-122.4245148,2007,2007,2007,2007-01-01 00:00:00
+San Diego Convention Center_2005,San Diego University_2005,Bonnie DeVarco,1,2005 to 2009,32.71510311,-117.1677006,32.72531626,-117.1653413,2005,2005,2005,2005-01-01 00:00:00
+Open Knowledge Conference (OKCON)_2013,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,46.19369232,6.147133551,44.01650106,10.44802788,2013,2014,2013,2013-01-01 00:00:00
+Open Knowledge Conference (OKCON)_2013,Universite de Lille_2013,Andrea Scharnhorst,1,2010 to 2014,46.19369232,6.147133551,50.64036025,3.063407575,2013,2013,2013,2013-01-01 00:00:00
+Lorentz Workshop_2014,The Hague Royal Library_2013,Andrea Scharnhorst,1,2010 to 2014,52.15780219,4.489010196,52.07640728,4.317576526,2014,2013,2013,2013-01-01 00:00:00
+Meertens Institute_2012,Universite de Lille_2013,Andrea Scharnhorst,1,2010 to 2014,52.37196229,4.887505376,50.64036025,3.063407575,2012,2013,2012,2012-01-01 00:00:00
+Lorentz Workshop_2014,Universite de Lille_2013,Andrea Scharnhorst,1,2010 to 2014,52.15780219,4.489010196,50.64036025,3.063407575,2014,2013,2013,2013-01-01 00:00:00
+Lorentz Workshop_2014,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,52.15780219,4.489010196,44.01650106,10.44802788,2014,2014,2014,2014-01-01 00:00:00
+Meertens Institute_2012,OCLC Research and DANS_2014,Andrea Scharnhorst,1,2010 to 2014,52.37196229,4.887505376,52.37766891,4.895533078,2012,2014,2012,2012-01-01 00:00:00
+Meertens Institute_2012,Open Knowledge Conference (OKCON)_2013,Andrea Scharnhorst,1,2010 to 2014,52.37196229,4.887505376,46.19369232,6.147133551,2012,2013,2012,2012-01-01 00:00:00
+Meertens Institute_2012,The Hague Royal Library_2013,Andrea Scharnhorst,1,2010 to 2014,52.37196229,4.887505376,52.07640728,4.317576526,2012,2013,2012,2012-01-01 00:00:00
+Open Knowledge Conference (OKCON)_2013,The Hague Royal Library_2013,Andrea Scharnhorst,1,2010 to 2014,46.19369232,6.147133551,52.07640728,4.317576526,2013,2013,2013,2013-01-01 00:00:00
+Meertens Institute_2012,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,52.37196229,4.887505376,44.01650106,10.44802788,2012,2014,2012,2012-01-01 00:00:00
+OCLC Research and DANS_2014,Open Knowledge Conference (OKCON)_2013,Andrea Scharnhorst,1,2010 to 2014,52.37766891,4.895533078,46.19369232,6.147133551,2014,2013,2013,2013-01-01 00:00:00
+OCLC Research and DANS_2014,The Hague Royal Library_2013,Andrea Scharnhorst,1,2010 to 2014,52.37766891,4.895533078,52.07640728,4.317576526,2014,2013,2013,2013-01-01 00:00:00
+OCLC Research and DANS_2014,Universite de Lille_2013,Andrea Scharnhorst,1,2010 to 2014,52.37766891,4.895533078,50.64036025,3.063407575,2014,2013,2013,2013-01-01 00:00:00
+OCLC Research and DANS_2014,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,52.37766891,4.895533078,44.01650106,10.44802788,2014,2014,2014,2014-01-01 00:00:00
+Delft University of Technology Library_2013,Meertens Institute_2012,Andrea Scharnhorst,1,2010 to 2014,52.0145713,4.367151352,52.37196229,4.887505376,2013,2012,2012,2012-01-01 00:00:00
+Delft University of Technology Library_2013,Lorentz Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,52.0145713,4.367151352,52.15780219,4.489010196,2013,2014,2013,2013-01-01 00:00:00
+1st International Conference on Internet Science_2013,The Hague Royal Library_2013,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,52.07640728,4.317576526,2013,2013,2013,2013-01-01 00:00:00
+1st International Conference on Internet Science_2013,Libraries and Research: Supporting Change/Changing Support_2014,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,52.38369038,4.895418906,2013,2014,2013,2013-01-01 00:00:00
+1st International Conference on Internet Science_2013,Lorentz Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,52.15780219,4.489010196,2013,2014,2013,2013-01-01 00:00:00
+1st International Conference on Internet Science_2013,Meertens Institute_2012,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,52.37196229,4.887505376,2013,2012,2012,2012-01-01 00:00:00
+1st International Conference on Internet Science_2013,OCLC Research and DANS_2014,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,52.37766891,4.895533078,2013,2014,2013,2013-01-01 00:00:00
+1st International Conference on Internet Science_2013,Open Knowledge Conference (OKCON)_2013,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,46.19369232,6.147133551,2013,2013,2013,2013-01-01 00:00:00
+1st International Conference on Internet Science_2013,Universite de Lille_2013,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,50.64036025,3.063407575,2013,2013,2013,2013-01-01 00:00:00
+1st International Conference on Internet Science_2013,Delft University of Technology Library_2013,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,52.0145713,4.367151352,2013,2013,2013,2013-01-01 00:00:00
+1st International Conference on Internet Science_2013,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,44.01650106,10.44802788,2013,2014,2013,2013-01-01 00:00:00
+Aalto University_2013,COST Workshop_2011,Andrea Scharnhorst,1,2010 to 2014,60.2017071,24.65209172,51.43516139,5.488016979,2013,2011,2011,2011-01-01 00:00:00
+Aalto University_2013,Delft University of Technology Library_2013,Andrea Scharnhorst,1,2010 to 2014,60.2017071,24.65209172,52.0145713,4.367151352,2013,2013,2013,2013-01-01 00:00:00
+Aalto University_2013,Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,Andrea Scharnhorst,1,2010 to 2014,60.2017071,24.65209172,44.01657981,10.45370823,2013,2013,2013,2013-01-01 00:00:00
+1st International Conference on Internet Science_2013,Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,44.01657981,10.45370823,2013,2013,2013,2013-01-01 00:00:00
+University of Florida_2010,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,29.64945102,-82.31660241,38.89126812,-77.03682062,2010,2011,2010,2010-01-01 00:00:00
+University of Florida_2010,Workshop_2010,Katy Borner,1,2010 to 2014,29.64945102,-82.31660241,38.89652172,-77.03893099,2010,2010,2010,2010-01-01 00:00:00
+University of North Carolina_2011,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,35.23202548,-80.84695165,40.44276457,-79.99514662,2011,2012,2011,2011-01-01 00:00:00
+University of North Carolina_2011,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,35.23202548,-80.84695165,38.89126812,-77.03682062,2011,2011,2011,2011-01-01 00:00:00
+University of North Carolina_2011,Workshop_2010,Katy Borner,1,2010 to 2014,35.23202548,-80.84695165,38.89652172,-77.03893099,2011,2010,2010,2010-01-01 00:00:00
+University of Pittsburgh_2012,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,40.44276457,-79.99514662,38.89126812,-77.03682062,2012,2011,2011,2011-01-01 00:00:00
+1st International Conference on Internet Science_2013,COST Workshop_2011,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,51.43516139,5.488016979,2013,2011,2011,2011-01-01 00:00:00
+University of Pittsburgh_2012,Workshop_2010,Katy Borner,1,2010 to 2014,40.44276457,-79.99514662,38.89652172,-77.03893099,2012,2010,2010,2010-01-01 00:00:00
+VIVO 2011 Conference_2011,Workshop_2010,Katy Borner,1,2010 to 2014,38.89126812,-77.03682062,38.89652172,-77.03893099,2011,2010,2010,2010-01-01 00:00:00
+1st International Conference on Internet Science_2013,Aalto University_2013,Andrea Scharnhorst,1,2010 to 2014,50.84981426,4.351993092,60.2017071,24.65209172,2013,2013,2013,2013-01-01 00:00:00
+Aalto University_2013,Libraries and Research: Supporting Change/Changing Support_2014,Andrea Scharnhorst,1,2010 to 2014,60.2017071,24.65209172,52.38369038,4.895418906,2013,2014,2013,2013-01-01 00:00:00
+Aalto University_2013,Lorentz Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,60.2017071,24.65209172,52.15780219,4.489010196,2013,2014,2013,2013-01-01 00:00:00
+Delft University of Technology Library_2013,Libraries and Research: Supporting Change/Changing Support_2014,Andrea Scharnhorst,1,2010 to 2014,52.0145713,4.367151352,52.38369038,4.895418906,2013,2014,2013,2013-01-01 00:00:00
+COST Workshop_2011,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,51.43516139,5.488016979,44.01650106,10.44802788,2011,2014,2011,2011-01-01 00:00:00
+COST Workshop_2011,Universite de Lille_2013,Andrea Scharnhorst,1,2010 to 2014,51.43516139,5.488016979,50.64036025,3.063407575,2011,2013,2011,2011-01-01 00:00:00
+DANS_2015,Universität Regensburg_2016,Andrea Scharnhorst,1,2015 to 2019,52.0775188,4.302833182,49.02001828,12.11028732,2015,2016,2015,2015-01-01 00:00:00
+Delft University of Technology Library_2013,Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,Andrea Scharnhorst,1,2010 to 2014,52.0145713,4.367151352,44.01657981,10.45370823,2013,2013,2013,2013-01-01 00:00:00
+COST Workshop_2011,The Hague Royal Library_2013,Andrea Scharnhorst,1,2010 to 2014,51.43516139,5.488016979,52.07640728,4.317576526,2011,2013,2011,2011-01-01 00:00:00
+Aalto University_2013,Meertens Institute_2012,Andrea Scharnhorst,1,2010 to 2014,60.2017071,24.65209172,52.37196229,4.887505376,2013,2012,2012,2012-01-01 00:00:00
+Aalto University_2013,OCLC Research and DANS_2014,Andrea Scharnhorst,1,2010 to 2014,60.2017071,24.65209172,52.37766891,4.895533078,2013,2014,2013,2013-01-01 00:00:00
+Aalto University_2013,Open Knowledge Conference (OKCON)_2013,Andrea Scharnhorst,1,2010 to 2014,60.2017071,24.65209172,46.19369232,6.147133551,2013,2013,2013,2013-01-01 00:00:00
+Aalto University_2013,The Hague Royal Library_2013,Andrea Scharnhorst,1,2010 to 2014,60.2017071,24.65209172,52.07640728,4.317576526,2013,2013,2013,2013-01-01 00:00:00
+Aalto University_2013,Universite de Lille_2013,Andrea Scharnhorst,1,2010 to 2014,60.2017071,24.65209172,50.64036025,3.063407575,2013,2013,2013,2013-01-01 00:00:00
+Aalto University_2013,Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,60.2017071,24.65209172,44.01650106,10.44802788,2013,2014,2013,2013-01-01 00:00:00
+COST Workshop_2011,Delft University of Technology Library_2013,Andrea Scharnhorst,1,2010 to 2014,51.43516139,5.488016979,52.0145713,4.367151352,2011,2013,2011,2011-01-01 00:00:00
+COST Workshop_2011,Open Knowledge Conference (OKCON)_2013,Andrea Scharnhorst,1,2010 to 2014,51.43516139,5.488016979,46.19369232,6.147133551,2011,2013,2011,2011-01-01 00:00:00
+COST Workshop_2011,Institute for Advanced Studies IMT (Institutions-Markets-Technologies)_2013,Andrea Scharnhorst,1,2010 to 2014,51.43516139,5.488016979,44.01657981,10.45370823,2011,2013,2011,2011-01-01 00:00:00
+COST Workshop_2011,Libraries and Research: Supporting Change/Changing Support_2014,Andrea Scharnhorst,1,2010 to 2014,51.43516139,5.488016979,52.38369038,4.895418906,2011,2014,2011,2011-01-01 00:00:00
+COST Workshop_2011,Lorentz Workshop_2014,Andrea Scharnhorst,1,2010 to 2014,51.43516139,5.488016979,52.15780219,4.489010196,2011,2014,2011,2011-01-01 00:00:00
+COST Workshop_2011,Meertens Institute_2012,Andrea Scharnhorst,1,2010 to 2014,51.43516139,5.488016979,52.37196229,4.887505376,2011,2012,2011,2011-01-01 00:00:00
+COST Workshop_2011,OCLC Research and DANS_2014,Andrea Scharnhorst,1,2010 to 2014,51.43516139,5.488016979,52.37766891,4.895533078,2011,2014,2011,2011-01-01 00:00:00
+San Diego Convention Center_2005,The 5th International Symposium on Digital Earth_2007,Bonnie DeVarco,1,2005 to 2009,32.71510311,-117.1677006,37.7844138,-122.4245148,2005,2007,2005,2005-01-01 00:00:00
+AMM Annual Conference_2017,Museum Computer Network_2016,Lisel Record,1,2015 to 2019,41.59452909,-93.62726078,29.97346358,-90.0728088,2017,2016,2016,2016-01-01 00:00:00
+2018 ASTC Annual Conference_2019,"CNS Center, Indiana University_2016",Lisel Record,1,2015 to 2019,41.76629078,-72.69295563,39.1629485,-86.52854173,2019,2016,2016,2016-01-01 00:00:00
+2018 ASTC Annual Conference_2019,Museum Computer Network_2016,Lisel Record,1,2015 to 2019,41.76629078,-72.69295563,29.97346358,-90.0728088,2019,2016,2016,2016-01-01 00:00:00
+2018 ASTC Annual Conference_2019,Museum Computer Network_2018,Lisel Record,1,2015 to 2019,41.76629078,-72.69295563,39.73503779,-104.9733675,2019,2018,2018,2018-01-01 00:00:00
+2018 ASTC Annual Conference_2019,WonderLab_2017,Lisel Record,1,2015 to 2019,41.76629078,-72.69295563,39.16904816,-86.53583396,2019,2017,2017,2017-01-01 00:00:00
+AMM Annual Conference_2017,"CNS Center, Indiana University_2016",Lisel Record,1,2015 to 2019,41.59452909,-93.62726078,39.1629485,-86.52854173,2017,2016,2016,2016-01-01 00:00:00
+AMM Annual Conference_2017,Museum Computer Network_2018,Lisel Record,1,2015 to 2019,41.59452909,-93.62726078,39.73503779,-104.9733675,2017,2018,2017,2017-01-01 00:00:00
+"Physikalischen Institut, Universität Leipzig_2016",Universität Leipzig_2016,Francis Harvey,1,2015 to 2019,51.34057087,12.37789494,51.34360789,12.3742526,2016,2016,2016,2016-01-01 00:00:00
+AMM Annual Conference_2017,WonderLab_2017,Lisel Record,1,2015 to 2019,41.59452909,-93.62726078,39.16904816,-86.53583396,2017,2017,2017,2017-01-01 00:00:00
+"CNS Center, Indiana University_2016",Museum Computer Network_2016,Lisel Record,1,2015 to 2019,39.1629485,-86.52854173,29.97346358,-90.0728088,2016,2016,2016,2016-01-01 00:00:00
+"CNS Center, Indiana University_2016",Museum Computer Network_2018,Lisel Record,1,2015 to 2019,39.1629485,-86.52854173,39.73503779,-104.9733675,2016,2018,2016,2016-01-01 00:00:00
+"CNS Center, Indiana University_2016",WonderLab_2017,Lisel Record,1,2015 to 2019,39.1629485,-86.52854173,39.16904816,-86.53583396,2016,2017,2016,2016-01-01 00:00:00
+2018 ASTC Annual Conference_2019,AMM Annual Conference_2017,Lisel Record,1,2015 to 2019,41.76629078,-72.69295563,41.59452909,-93.62726078,2019,2017,2017,2017-01-01 00:00:00
+IEEE Cluster 2013_2013,Wonderlab_2013,Todd Theriault,1,2010 to 2014,39.76597344,-86.15962509,39.16961484,-86.52504332,2013,2013,2013,2013-01-01 00:00:00
+Indiana University_2013,Wonderlab_2013,Todd Theriault,1,2010 to 2014,39.17180961,-86.5214213,39.16961484,-86.52504332,2013,2013,2013,2013-01-01 00:00:00
+Barbican_2014,Delft University of Technology Library_2013,Caroline Nevejan,1,2010 to 2014,51.5084409,-0.129583361,52.0145713,4.367151352,2014,2013,2013,2013-01-01 00:00:00
+Luddy Hall_2022,University Collections at McCalla_2024,Todd Theriault,1,2020 to 2024,39.17342798,-86.53714183,39.16579478,-86.53735204,2022,2024,2022,2022-01-01 00:00:00
+Museum Computer Network_2016,Museum Computer Network_2018,Lisel Record,1,2015 to 2019,29.97346358,-90.0728088,39.73503779,-104.9733675,2016,2018,2016,2016-01-01 00:00:00
+Museum Computer Network_2016,WonderLab_2017,Lisel Record,1,2015 to 2019,29.97346358,-90.0728088,39.16904816,-86.53583396,2016,2017,2016,2016-01-01 00:00:00
+Luddy Pre-College Summer Program_2021,Nesta Firebreak_2021,Indiana University Bloomington,1,2020 to 2024,39.15847393,-86.52936649,51.50747182,-0.126933039,2021,2021,2021,2021-01-01 00:00:00
+Indy Big Data_2018,University of Toulouse_2017,Olga Scrivner,1,2015 to 2019,39.77928211,-86.16093664,43.6039184,1.442074419,2018,2017,2017,2017-01-01 00:00:00
+"Indiana State House, Management Performance Hub_2018","Indiana State House, Management Performance Hub_2019",Darshan Shah,1,2015 to 2019,39.77558882,-86.15319098,39.75771362,-86.16057771,2018,2019,2018,2018-01-01 00:00:00
+24 Hour Science Map Event_2021,Luddy Pre-College Summer Program_2021,Indiana University Bloomington,1,2020 to 2024,39.15906746,-86.53990171,39.15847393,-86.52936649,2021,2021,2021,2021-01-01 00:00:00
+24 Hour Science Map Event_2021,Nesta Firebreak_2021,Indiana University Bloomington,1,2020 to 2024,39.15906746,-86.53990171,51.50747182,-0.126933039,2021,2021,2021,2021-01-01 00:00:00
+24 Hour Science Map Event_2021,"Sciences Library, Indiana University_2022",Indiana University Bloomington,1,2020 to 2024,39.15906746,-86.53990171,39.17015385,-86.5220116,2021,2022,2021,2021-01-01 00:00:00
+24 Hour Science Map Event_2021,The Future of Learning & Work Workshop_2022,Indiana University Bloomington,1,2020 to 2024,39.15906746,-86.53990171,52.50863467,13.40038254,2021,2022,2021,2021-01-01 00:00:00
+Luddy Pre-College Summer Program_2021,"Sciences Library, Indiana University_2022",Indiana University Bloomington,1,2020 to 2024,39.15847393,-86.52936649,39.17015385,-86.5220116,2021,2022,2021,2021-01-01 00:00:00
+Luddy Pre-College Summer Program_2021,The Future of Learning & Work Workshop_2022,Indiana University Bloomington,1,2020 to 2024,39.15847393,-86.52936649,52.50863467,13.40038254,2021,2022,2021,2021-01-01 00:00:00
+Nesta Firebreak_2021,"Sciences Library, Indiana University_2022",Indiana University Bloomington,1,2020 to 2024,51.50747182,-0.126933039,39.17015385,-86.5220116,2021,2022,2021,2021-01-01 00:00:00
+Nesta Firebreak_2021,The Future of Learning & Work Workshop_2022,Indiana University Bloomington,1,2020 to 2024,51.50747182,-0.126933039,52.50863467,13.40038254,2021,2022,2021,2021-01-01 00:00:00
+"Sciences Library, Indiana University_2022",The Future of Learning & Work Workshop_2022,Indiana University Bloomington,1,2020 to 2024,39.17015385,-86.5220116,52.50863467,13.40038254,2022,2022,2022,2022-01-01 00:00:00
+Clark Library_2022,University of Michigan Clark Library_2022,Timothy Utter,1,2020 to 2024,42.28493027,-83.75164854,42.27574899,-83.74251652,2022,2022,2022,2022-01-01 00:00:00
+College of Arts and Sciences_2024,Science Fest_2022,Jo Anne Tracy,1,2020 to 2024,39.17233172,-86.53517284,39.15936903,-86.52718558,2024,2022,2022,2022-01-01 00:00:00
+Indy Big Data_2017,Smith Research Center_2016,Julie Overfield,1,2015 to 2019,39.76839606,-86.16282324,39.16859414,-86.53293021,2017,2016,2016,2016-01-01 00:00:00
+Indiana University_2016,Indiana University_2018,Jim Pershing,1,2015 to 2019,39.16200951,-86.53446304,39.17780551,-86.53295285,2016,2018,2016,2016-01-01 00:00:00
+Museum Computer Network_2018,WonderLab_2017,Lisel Record,1,2015 to 2019,39.73503779,-104.9733675,39.16904816,-86.53583396,2018,2017,2017,2017-01-01 00:00:00
+Indiana University Lifelong Learning_2017,Indiana University_2016,Jim Pershing,1,2015 to 2019,39.16694452,-86.53448588,39.16200951,-86.53446304,2017,2016,2016,2016-01-01 00:00:00
+Indiana University Lifelong Learning_2017,Indiana University_2018,Jim Pershing,1,2015 to 2019,39.16694452,-86.53448588,39.17780551,-86.53295285,2017,2018,2017,2017-01-01 00:00:00
+Indiana University Lifelong Learning_2017,Mini University_2017,Jim Pershing,1,2015 to 2019,39.16694452,-86.53448588,39.16865319,-86.52959668,2017,2017,2017,2017-01-01 00:00:00
+Indiana University_2016,Mini University_2017,Jim Pershing,1,2015 to 2019,39.16200951,-86.53446304,39.16865319,-86.52959668,2016,2017,2016,2016-01-01 00:00:00
+Association for Information Science & Technology_2016,Indiana Library Federation_2016,Mary Beth Roska,1,2015 to 2019,55.68794274,12.57312533,39.76109268,-86.15870103,2016,2016,2016,2016-01-01 00:00:00
+Indiana University_2018,Mini University_2017,Jim Pershing,1,2015 to 2019,39.17780551,-86.53295285,39.16865319,-86.52959668,2018,2017,2017,2017-01-01 00:00:00
+American Association of Law Libraries_2016,American Library Association_2016,Mary Beth Roska,1,2015 to 2019,41.8804372,-87.62805689,28.53762463,-81.37416763,2016,2016,2016,2016-01-01 00:00:00
+American Association of Law Libraries_2016,Association for Information Science & Technology_2016,Mary Beth Roska,1,2015 to 2019,41.8804372,-87.62805689,55.68794274,12.57312533,2016,2016,2016,2016-01-01 00:00:00
+American Association of Law Libraries_2016,Indiana Library Federation_2016,Mary Beth Roska,1,2015 to 2019,41.8804372,-87.62805689,39.76109268,-86.15870103,2016,2016,2016,2016-01-01 00:00:00
+American Library Association_2016,Association for Information Science & Technology_2016,Mary Beth Roska,1,2015 to 2019,28.53762463,-81.37416763,55.68794274,12.57312533,2016,2016,2016,2016-01-01 00:00:00
+American Library Association_2016,Indiana Library Federation_2016,Mary Beth Roska,1,2015 to 2019,28.53762463,-81.37416763,39.76109268,-86.15870103,2016,2016,2016,2016-01-01 00:00:00
+IEEE Cluster 2013_2013,Indiana University_2013,Todd Theriault,1,2010 to 2014,39.76597344,-86.15962509,39.17180961,-86.5214213,2013,2013,2013,2013-01-01 00:00:00
+24 Hour Human Reference Atlas Design Event_2022,University Collections at McCalla_2024,Todd Theriault,1,2020 to 2024,39.16329717,-86.53193102,39.16579478,-86.53735204,2022,2024,2022,2022-01-01 00:00:00
+San Diego University_2005,The 5th International Symposium on Digital Earth_2007,Bonnie DeVarco,1,2005 to 2009,32.72531626,-117.1653413,37.7844138,-122.4245148,2005,2007,2005,2005-01-01 00:00:00
+Modeling Science Workshop_2009,Rathenau Institute_2008,Peter van den Besselaar,1,2005 to 2009,52.38009357,4.89845947,52.07980467,4.308462243,2009,2008,2008,2008-01-01 00:00:00
+Modeling Science Workshop_2009,Society for Social Studies of Science (4S)_2007,Andrea Scharnhorst,1,2005 to 2009,52.38009357,4.89845947,45.49720137,-73.57224213,2009,2007,2007,2007-01-01 00:00:00
+Modeling Science Workshop_2009,"Virtual Knowledge Studio, Royal Academy of Arts and Science (KNAW)_2007",Andrea Scharnhorst,1,2005 to 2009,52.38009357,4.89845947,52.37809726,4.888298649,2009,2007,2007,2007-01-01 00:00:00
+Modeling Science Workshop_2009,"Virtual Knowledge Studio, Virtual Knowledge Studio, Royal Netherlands Academy of Arts and Sciences_2009",Andrea Scharnhorst,1,2005 to 2009,52.38009357,4.89845947,52.36906821,4.888468924,2009,2009,2009,2009-01-01 00:00:00
+Society for Social Studies of Science (4S)_2007,"Virtual Knowledge Studio, Royal Academy of Arts and Science (KNAW)_2007",Andrea Scharnhorst,1,2005 to 2009,45.49720137,-73.57224213,52.37809726,4.888298649,2007,2007,2007,2007-01-01 00:00:00
+Society for Social Studies of Science (4S)_2007,"Virtual Knowledge Studio, Virtual Knowledge Studio, Royal Netherlands Academy of Arts and Sciences_2009",Andrea Scharnhorst,1,2005 to 2009,45.49720137,-73.57224213,52.36906821,4.888468924,2007,2009,2007,2007-01-01 00:00:00
+"Virtual Knowledge Studio, Royal Academy of Arts and Science (KNAW)_2007","Virtual Knowledge Studio, Virtual Knowledge Studio, Royal Netherlands Academy of Arts and Sciences_2009",Andrea Scharnhorst,1,2005 to 2009,52.37809726,4.888298649,52.36906821,4.888468924,2007,2009,2007,2007-01-01 00:00:00
+Interdisciplinary Seminar of the Heraeus Foundation_2008,"Virtual Knowledge Studio, Royal Academy of Arts and Science (KNAW)_2007",Andrea Scharnhorst,1,2005 to 2009,50.65254838,7.222715582,52.37809726,4.888298649,2008,2007,2007,2007-01-01 00:00:00
+Northwestern University_2011,University of Southern California_2010,Noshir Contractor,1,2010 to 2014,41.87198984,-87.62931502,34.05403371,-118.2438615,2011,2010,2010,2010-01-01 00:00:00
+Interdisciplinary Seminar of the Heraeus Foundation_2008,"Virtual Knowledge Studio, Virtual Knowledge Studio, Royal Netherlands Academy of Arts and Sciences_2009",Andrea Scharnhorst,1,2005 to 2009,50.65254838,7.222715582,52.36906821,4.888468924,2008,2009,2008,2008-01-01 00:00:00
+Interdisciplinary Seminar of the Heraeus Foundation_2008,Society for Social Studies of Science (4S)_2007,Andrea Scharnhorst,1,2005 to 2009,50.65254838,7.222715582,45.49720137,-73.57224213,2008,2007,2007,2007-01-01 00:00:00
+International Workshop on Mining the Digital Traces of Science_2011,iConference_2011,Angela Zoss,1,2010 to 2014,48.84753858,2.352176443,47.60499337,-122.3326121,2011,2011,2011,2011-01-01 00:00:00
+Annual History of Science Conference_2012,UCD Conference_2010,Andre Skupin,1,2010 to 2014,32.72283546,-117.1640007,53.35328861,-6.264808522,2012,2010,2010,2010-01-01 00:00:00
+Los Alamos National Laboratory_2005,National Cancer Institute_2006,Ketan Mane,1,2005 to 2009,35.87902263,-106.2992724,38.88893258,-77.03498645,2005,2006,2005,2005-01-01 00:00:00
+ESRI Headquaters_2005,ESRI Regional Office_2005,Wendy McKinney,1,2005 to 2009,34.05270415,-117.1802243,34.0454664,-117.1867089,2005,2005,2005,2005-01-01 00:00:00
+CERC3 Chemistry Funding Agencies Meeting_2006,National Science Foundation_2006,Janice M. Hicks,1,2005 to 2009,52.38234099,4.899287771,38.89231489,-77.03347187,2006,2006,2006,2006-01-01 00:00:00
+American Museum of Science and Energy_2007,American Museum of Science and Energy_2008,Ken Mayes,1,2005 to 2009,36.00371527,-84.27028449,36.01216438,-84.26829262,2007,2008,2007,2007-01-01 00:00:00
+Interdisciplinary Seminar of the Heraeus Foundation_2008,Modeling Science Workshop_2009,Andrea Scharnhorst,1,2005 to 2009,50.65254838,7.222715582,52.38009357,4.89845947,2008,2009,2008,2008-01-01 00:00:00
+11th International Conference on Information Visualization_2007,"ARchENA, Honggerberg_2007",Remo Burkhard,1,2005 to 2009,47.37290284,8.534128201,47.37932663,8.550589283,2007,2007,2007,2007-01-01 00:00:00
+Erasmus University Rotterdam_2008,Interdisciplinary Seminar of the Heraeus Foundation_2008,Andrea Scharnhorst,1,2005 to 2009,51.92901941,4.479048613,50.65254838,7.222715582,2008,2008,2008,2008-01-01 00:00:00
+Erasmus University Rotterdam_2008,Modeling Science Workshop_2009,Andrea Scharnhorst,1,2005 to 2009,51.92901941,4.479048613,52.38009357,4.89845947,2008,2009,2008,2008-01-01 00:00:00
+Erasmus University Rotterdam_2008,Society for Social Studies of Science (4S)_2007,Andrea Scharnhorst,1,2005 to 2009,51.92901941,4.479048613,45.49720137,-73.57224213,2008,2007,2007,2007-01-01 00:00:00
+Erasmus University Rotterdam_2008,"Virtual Knowledge Studio, Royal Academy of Arts and Science (KNAW)_2007",Andrea Scharnhorst,1,2005 to 2009,51.92901941,4.479048613,52.37809726,4.888298649,2008,2007,2007,2007-01-01 00:00:00
+Erasmus University Rotterdam_2008,"Virtual Knowledge Studio, Virtual Knowledge Studio, Royal Netherlands Academy of Arts and Sciences_2009",Andrea Scharnhorst,1,2005 to 2009,51.92901941,4.479048613,52.36906821,4.888468924,2008,2009,2008,2008-01-01 00:00:00
+24 Hour Human Reference Atlas Design Event_2022,Luddy Hall_2022,Todd Theriault,1,2020 to 2024,39.16329717,-86.53193102,39.17342798,-86.53714183,2022,2022,2022,2022-01-01 00:00:00
+Smithsonian Folklife Festival_2012,WTEC workshop_2012,Chin Hua Kong,1,2010 to 2014,38.89931879,-77.03867711,38.89280423,-77.03733274,2012,2012,2012,2012-01-01 00:00:00
+The Levy Library_2015,The Levy Library_2016,Gali Halevi,1,2015 to 2019,40.71168749,-74.00397394,40.71668641,-73.99695296,2015,2016,2015,2015-01-01 00:00:00
+Indiana University_2012,Smithsonian Folklife Festival_2012,Chin Hua Kong,1,2010 to 2014,39.16896619,-86.53392151,38.89931879,-77.03867711,2012,2012,2012,2012-01-01 00:00:00
+Indiana University_2012,WTEC workshop_2012,Chin Hua Kong,1,2010 to 2014,39.16896619,-86.53392151,38.89280423,-77.03733274,2012,2012,2012,2012-01-01 00:00:00
+Pedagogical University of Cracow_2011,Torun's Festival of Science and Art_2011,Veslava Osinska,1,2010 to 2014,50.05273618,19.99922061,53.00966269,18.60093117,2011,2011,2011,2011-01-01 00:00:00
+Keck Center Gallery_2012,Upstairs Gallery_2013,J.D. Talasek,1,2010 to 2014,38.89580543,-77.04301809,38.89761198,-77.03769737,2012,2013,2012,2012-01-01 00:00:00
+Homo Communicativus_2015,University of Warsaw Library_2015,Veslava Osinska,1,2015 to 2019,53.0190341,18.60491051,52.23430384,21.06765533,2015,2015,2015,2015-01-01 00:00:00
+Atlanta Conference on Science and Innovation Policy_2009,Technology Transfer Society (T2S) Annual Conference_2009,Margaret Clements,1,2005 to 2009,33.75294756,-84.38590878,36.06808856,-79.79360552,2009,2009,2009,2009-01-01 00:00:00
+"Moorhead, Art & Design Building_2012",Smithsonian Folklife Festival_2012,Michael J. Stamper,1,2010 to 2014,46.86701975,-96.76735183,38.89931879,-77.03867711,2012,2012,2012,2012-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,"Moorhead, Art & Design Building_2012",Michael J. Stamper,1,2010 to 2014,39.73800946,-104.9815902,46.86701975,-96.76735183,2011,2012,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,Smithsonian Folklife Festival_2012,Michael J. Stamper,1,2010 to 2014,39.73800946,-104.9815902,38.89931879,-77.03867711,2011,2012,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,University of Huddersfield_2011,Michael J. Stamper,1,2010 to 2014,39.73800946,-104.9815902,54.70472366,-3.274688798,2011,2011,2011,2011-01-01 00:00:00
+"Moorhead, Art & Design Building_2012",University of Huddersfield_2011,Michael J. Stamper,1,2010 to 2014,46.86701975,-96.76735183,54.70472366,-3.274688798,2012,2011,2011,2011-01-01 00:00:00
+Smithsonian Folklife Festival_2012,University of Huddersfield_2011,Michael J. Stamper,1,2010 to 2014,38.89931879,-77.03867711,54.70472366,-3.274688798,2012,2011,2011,2011-01-01 00:00:00
+Homo Communicativus: Contemporary Faces of Communication and Information_2013,Pedagogical University of Cracow_2011,Veslava Osinska,1,2010 to 2014,53.01494547,18.59384885,50.05273618,19.99922061,2013,2011,2011,2011-01-01 00:00:00
+Homo Communicativus: Contemporary Faces of Communication and Information_2013,Torun's Festival of Science and Art_2011,Veslava Osinska,1,2010 to 2014,53.01494547,18.59384885,53.00966269,18.60093117,2013,2011,2011,2011-01-01 00:00:00
+University of Florida_2010,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,29.64945102,-82.31660241,40.44276457,-79.99514662,2010,2012,2010,2010-01-01 00:00:00
+New York Hall of Science_2006,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,40.71384544,-73.82887484,39.76552166,-86.16352641,2006,2005,2005,2005-01-01 00:00:00
+New York Hall of Science_2008,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,40.71529336,-73.82546021,40.70391394,-73.82247429,2008,2009,2008,2008-01-01 00:00:00
+New York Hall of Science_2008,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,40.71529336,-73.82546021,36.01216318,-84.27083964,2008,2008,2008,2008-01-01 00:00:00
+New York Hall of Science_2008,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,40.71529336,-73.82546021,32.83022446,-117.2713609,2008,2008,2008,2008-01-01 00:00:00
+New York Hall of Science_2008,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,40.71529336,-73.82546021,60.17160082,24.94563008,2008,2006,2006,2006-01-01 00:00:00
+New York Hall of Science_2008,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,40.71529336,-73.82546021,39.77021159,-86.16122929,2008,2006,2006,2006-01-01 00:00:00
+New York Hall of Science_2008,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,40.71529336,-73.82546021,33.74598921,-84.39163966,2008,2006,2006,2006-01-01 00:00:00
+New York Hall of Science_2008,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,40.71529336,-73.82546021,40.06909293,-88.22313709,2008,2005,2005,2005-01-01 00:00:00
+New York Hall of Science_2006,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,40.71384544,-73.82887484,60.17160082,24.94563008,2006,2006,2006,2006-01-01 00:00:00
+New York Hall of Science_2006,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,40.71384544,-73.82887484,40.70391394,-73.82247429,2006,2009,2006,2006-01-01 00:00:00
+New York Hall of Science_2006,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,40.71384544,-73.82887484,36.01216318,-84.27083964,2006,2008,2006,2006-01-01 00:00:00
+New York Hall of Science_2006,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,40.71384544,-73.82887484,32.83022446,-117.2713609,2006,2008,2006,2006-01-01 00:00:00
+New York Hall of Science_2006,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,40.71384544,-73.82887484,39.77021159,-86.16122929,2006,2006,2006,2006-01-01 00:00:00
+New York Hall of Science_2006,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,40.71384544,-73.82887484,33.74598921,-84.39163966,2006,2006,2006,2006-01-01 00:00:00
+New York Hall of Science_2006,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,40.71384544,-73.82887484,40.06909293,-88.22313709,2006,2005,2005,2005-01-01 00:00:00
+New York Hall of Science_2009,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,40.70391394,-73.82247429,39.76552166,-86.16352641,2009,2005,2005,2005-01-01 00:00:00
+Northwestern University_2011,Purdue University_2011,Katy Borner,1,2010 to 2014,41.87198984,-87.62931502,39.77161587,-86.16296103,2011,2011,2011,2011-01-01 00:00:00
+Northwestern University_2011,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,41.87198984,-87.62931502,35.69154502,-105.9316778,2011,2011,2011,2011-01-01 00:00:00
+Northwestern University_2011,UCD Conference_2010,Katy Borner,1,2010 to 2014,41.87198984,-87.62931502,53.35328861,-6.264808522,2011,2010,2010,2010-01-01 00:00:00
+New York Hall of Science_2008,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,40.71529336,-73.82546021,39.76552166,-86.16352641,2008,2005,2005,2005-01-01 00:00:00
+New York Hall of Science_2009,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,40.70391394,-73.82247429,36.01216318,-84.27083964,2009,2008,2008,2008-01-01 00:00:00
+New York Hall of Science_2009,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,40.70391394,-73.82247429,32.83022446,-117.2713609,2009,2008,2008,2008-01-01 00:00:00
+New York Hall of Science_2009,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,40.70391394,-73.82247429,60.17160082,24.94563008,2009,2006,2006,2006-01-01 00:00:00
+New York Hall of Science_2009,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,40.70391394,-73.82247429,39.77021159,-86.16122929,2009,2006,2006,2006-01-01 00:00:00
+New York Hall of Science_2009,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,40.70391394,-73.82247429,33.74598921,-84.39163966,2009,2006,2006,2006-01-01 00:00:00
+New York Hall of Science_2009,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,40.70391394,-73.82247429,40.06909293,-88.22313709,2009,2005,2005,2005-01-01 00:00:00
+New York Hall of Science_2006,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,40.71384544,-73.82887484,40.71529336,-73.82546021,2006,2008,2006,2006-01-01 00:00:00
+New Network Theory Conference Keynote_2007,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,52.36888351,4.888075309,39.76552166,-86.16352641,2007,2005,2005,2005-01-01 00:00:00
+National Institutes of Health_2012,Workshop_2010,Katy Borner,1,2010 to 2014,38.88880811,-77.04481698,38.89652172,-77.03893099,2012,2010,2010,2010-01-01 00:00:00
+National Institutes of Health_2012,University of Florida_2010,Katy Borner,1,2010 to 2014,38.88880811,-77.04481698,29.64945102,-82.31660241,2012,2010,2010,2010-01-01 00:00:00
+National Institutes of Health_2012,University of North Carolina_2011,Katy Borner,1,2010 to 2014,38.88880811,-77.04481698,35.23202548,-80.84695165,2012,2011,2011,2011-01-01 00:00:00
+National Institutes of Health_2012,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,38.88880811,-77.04481698,40.44276457,-79.99514662,2012,2012,2012,2012-01-01 00:00:00
+National Institutes of Health_2012,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,38.88880811,-77.04481698,38.89126812,-77.03682062,2012,2011,2011,2011-01-01 00:00:00
+"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,40.86115082,-73.43750812,52.36888351,4.888075309,2006,2007,2006,2006-01-01 00:00:00
+"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",New York Hall of Science_2006,Katy Borner,1,2005 to 2009,40.86115082,-73.43750812,40.71384544,-73.82887484,2006,2006,2006,2006-01-01 00:00:00
+"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",New York Hall of Science_2008,Katy Borner,1,2005 to 2009,40.86115082,-73.43750812,40.71529336,-73.82546021,2006,2008,2006,2006-01-01 00:00:00
+"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",New York Hall of Science_2009,Katy Borner,1,2005 to 2009,40.86115082,-73.43750812,40.70391394,-73.82247429,2006,2009,2006,2006-01-01 00:00:00
+"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",OSTI Meeting_2008,Katy Borner,1,2005 to 2009,40.86115082,-73.43750812,36.01216318,-84.27083964,2006,2008,2006,2006-01-01 00:00:00
+National Institutes of Health_2012,UCD Conference_2010,Katy Borner,1,2010 to 2014,38.88880811,-77.04481698,53.35328861,-6.264808522,2012,2010,2010,2010-01-01 00:00:00
+National Institute of Science and Technology Policy (NISTEP)_2007,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,35.67535458,139.7567834,39.76552166,-86.16352641,2007,2005,2005,2005-01-01 00:00:00
+National Institutes of Health_2012,Northwestern University_2011,Katy Borner,1,2010 to 2014,38.88880811,-77.04481698,41.87198984,-87.62931502,2012,2011,2011,2011-01-01 00:00:00
+National Institutes of Health_2012,Purdue University_2011,Katy Borner,1,2010 to 2014,38.88880811,-77.04481698,39.77161587,-86.16296103,2012,2011,2011,2011-01-01 00:00:00
+National Institutes of Health_2012,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,38.88880811,-77.04481698,35.69154502,-105.9316778,2012,2011,2011,2011-01-01 00:00:00
+"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",San Diego Marriott_2008,Katy Borner,1,2005 to 2009,40.86115082,-73.43750812,32.83022446,-117.2713609,2006,2008,2006,2006-01-01 00:00:00
+New Network Theory Conference Keynote_2007,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,52.36888351,4.888075309,33.74598921,-84.39163966,2007,2006,2006,2006-01-01 00:00:00
+New Network Theory Conference Keynote_2007,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,52.36888351,4.888075309,32.83022446,-117.2713609,2007,2008,2007,2007-01-01 00:00:00
+New Network Theory Conference Keynote_2007,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,52.36888351,4.888075309,60.17160082,24.94563008,2007,2006,2006,2006-01-01 00:00:00
+New Network Theory Conference Keynote_2007,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,52.36888351,4.888075309,39.77021159,-86.16122929,2007,2006,2006,2006-01-01 00:00:00
+New Network Theory Conference Keynote_2007,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,52.36888351,4.888075309,40.06909293,-88.22313709,2007,2005,2005,2005-01-01 00:00:00
+New Network Theory Conference Keynote_2007,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,52.36888351,4.888075309,36.01216318,-84.27083964,2007,2008,2007,2007-01-01 00:00:00
+New Network Theory Conference Keynote_2007,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,52.36888351,4.888075309,40.70391394,-73.82247429,2007,2009,2007,2007-01-01 00:00:00
+"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,40.86115082,-73.43750812,60.17160082,24.94563008,2006,2006,2006,2006-01-01 00:00:00
+"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006","State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,40.86115082,-73.43750812,39.77021159,-86.16122929,2006,2006,2006,2006-01-01 00:00:00
+"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006","The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,40.86115082,-73.43750812,33.74598921,-84.39163966,2006,2006,2006,2006-01-01 00:00:00
+"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,40.86115082,-73.43750812,40.06909293,-88.22313709,2006,2005,2005,2005-01-01 00:00:00
+New Network Theory Conference Keynote_2007,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,52.36888351,4.888075309,40.71529336,-73.82546021,2007,2008,2007,2007-01-01 00:00:00
+"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,40.86115082,-73.43750812,39.76552166,-86.16352641,2006,2005,2005,2005-01-01 00:00:00
+New Network Theory Conference Keynote_2007,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,52.36888351,4.888075309,40.71384544,-73.82887484,2007,2006,2006,2006-01-01 00:00:00
+Northwestern University_2011,University of Florida_2010,Katy Borner,1,2010 to 2014,41.87198984,-87.62931502,29.64945102,-82.31660241,2011,2010,2010,2010-01-01 00:00:00
+"State House, Indianapolis_2006","The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,39.77021159,-86.16122929,33.74598921,-84.39163966,2006,2006,2006,2006-01-01 00:00:00
+"State House, Indianapolis_2006",This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,39.77021159,-86.16122929,40.06909293,-88.22313709,2006,2005,2005,2005-01-01 00:00:00
+Scientific Mapping and Analytics_2011,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,35.69154502,-105.9316778,38.89126812,-77.03682062,2011,2011,2011,2011-01-01 00:00:00
+"State House, Indianapolis_2006",i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,39.77021159,-86.16122929,39.76552166,-86.16352641,2006,2005,2005,2005-01-01 00:00:00
+"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,33.74598921,-84.39163966,40.06909293,-88.22313709,2006,2005,2005,2005-01-01 00:00:00
+Scientific Mapping and Analytics_2011,Workshop_2010,Katy Borner,1,2010 to 2014,35.69154502,-105.9316778,38.89652172,-77.03893099,2011,2010,2010,2010-01-01 00:00:00
+Scientific Mapping and Analytics_2011,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,35.69154502,-105.9316778,40.44276457,-79.99514662,2011,2012,2011,2011-01-01 00:00:00
+Science of Science Policy Workshop_2006,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,60.17160082,24.94563008,39.76552166,-86.16352641,2006,2005,2005,2005-01-01 00:00:00
+Scientific Mapping and Analytics_2011,University of North Carolina_2011,Katy Borner,1,2010 to 2014,35.69154502,-105.9316778,35.23202548,-80.84695165,2011,2011,2011,2011-01-01 00:00:00
+Scientific Mapping and Analytics_2011,UCD Conference_2010,Katy Borner,1,2010 to 2014,35.69154502,-105.9316778,53.35328861,-6.264808522,2011,2010,2010,2010-01-01 00:00:00
+Scientific Mapping and Analytics_2011,University of Florida_2010,Katy Borner,1,2010 to 2014,35.69154502,-105.9316778,29.64945102,-82.31660241,2011,2010,2010,2010-01-01 00:00:00
+UCD Conference_2010,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,53.35328861,-6.264808522,38.89126812,-77.03682062,2010,2011,2010,2010-01-01 00:00:00
+UCD Conference_2010,Workshop_2010,Katy Borner,1,2010 to 2014,53.35328861,-6.264808522,38.89652172,-77.03893099,2010,2010,2010,2010-01-01 00:00:00
+UQÀM_2022,University Collections at McCalla_2024,Katy Borner,1,2020 to 2024,45.50484397,-73.57396828,39.16579478,-86.53735204,2022,2024,2022,2022-01-01 00:00:00
+UCD Conference_2010,University of North Carolina_2011,Katy Borner,1,2010 to 2014,53.35328861,-6.264808522,35.23202548,-80.84695165,2010,2011,2010,2010-01-01 00:00:00
+UCD Conference_2010,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,53.35328861,-6.264808522,40.44276457,-79.99514662,2010,2012,2010,2010-01-01 00:00:00
+UCD Conference_2010,University of Florida_2010,Katy Borner,1,2010 to 2014,53.35328861,-6.264808522,29.64945102,-82.31660241,2010,2010,2010,2010-01-01 00:00:00
+"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,33.74598921,-84.39163966,39.76552166,-86.16352641,2006,2005,2005,2005-01-01 00:00:00
+This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,40.06909293,-88.22313709,39.76552166,-86.16352641,2005,2005,2005,2005-01-01 00:00:00
+Science of Science Policy Workshop_2006,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,60.17160082,24.94563008,40.06909293,-88.22313709,2006,2005,2005,2005-01-01 00:00:00
+Northwestern University_2011,University of North Carolina_2011,Katy Borner,1,2010 to 2014,41.87198984,-87.62931502,35.23202548,-80.84695165,2011,2011,2011,2011-01-01 00:00:00
+Purdue University_2011,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,39.77161587,-86.16296103,35.69154502,-105.9316778,2011,2011,2011,2011-01-01 00:00:00
+OSTI Meeting_2008,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,36.01216318,-84.27083964,39.76552166,-86.16352641,2008,2005,2005,2005-01-01 00:00:00
+Purdue University_2011,UCD Conference_2010,Katy Borner,1,2010 to 2014,39.77161587,-86.16296103,53.35328861,-6.264808522,2011,2010,2010,2010-01-01 00:00:00
+Purdue University_2011,University of Florida_2010,Katy Borner,1,2010 to 2014,39.77161587,-86.16296103,29.64945102,-82.31660241,2011,2010,2010,2010-01-01 00:00:00
+Purdue University_2011,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,39.77161587,-86.16296103,40.44276457,-79.99514662,2011,2012,2011,2011-01-01 00:00:00
+OSTI Meeting_2008,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,36.01216318,-84.27083964,32.83022446,-117.2713609,2008,2008,2008,2008-01-01 00:00:00
+Northwestern University_2011,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,41.87198984,-87.62931502,40.44276457,-79.99514662,2011,2012,2011,2011-01-01 00:00:00
+Northwestern University_2011,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,41.87198984,-87.62931502,38.89126812,-77.03682062,2011,2011,2011,2011-01-01 00:00:00
+Northwestern University_2011,Workshop_2010,Katy Borner,1,2010 to 2014,41.87198984,-87.62931502,38.89652172,-77.03893099,2011,2010,2010,2010-01-01 00:00:00
+OSTI Meeting_2008,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,36.01216318,-84.27083964,60.17160082,24.94563008,2008,2006,2006,2006-01-01 00:00:00
+OSTI Meeting_2008,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,36.01216318,-84.27083964,39.77021159,-86.16122929,2008,2006,2006,2006-01-01 00:00:00
+OSTI Meeting_2008,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,36.01216318,-84.27083964,33.74598921,-84.39163966,2008,2006,2006,2006-01-01 00:00:00
+OSTI Meeting_2008,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,36.01216318,-84.27083964,40.06909293,-88.22313709,2008,2005,2005,2005-01-01 00:00:00
+Purdue University_2011,University of North Carolina_2011,Katy Borner,1,2010 to 2014,39.77161587,-86.16296103,35.23202548,-80.84695165,2011,2011,2011,2011-01-01 00:00:00
+Purdue University_2011,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,39.77161587,-86.16296103,38.89126812,-77.03682062,2011,2011,2011,2011-01-01 00:00:00
+Science of Science Policy Workshop_2006,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,60.17160082,24.94563008,33.74598921,-84.39163966,2006,2006,2006,2006-01-01 00:00:00
+San Diego Marriott_2008,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,32.83022446,-117.2713609,39.77021159,-86.16122929,2008,2006,2006,2006-01-01 00:00:00
+San Diego Marriott_2008,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,32.83022446,-117.2713609,33.74598921,-84.39163966,2008,2006,2006,2006-01-01 00:00:00
+San Diego Marriott_2008,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,32.83022446,-117.2713609,40.06909293,-88.22313709,2008,2005,2005,2005-01-01 00:00:00
+San Diego Marriott_2008,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,32.83022446,-117.2713609,60.17160082,24.94563008,2008,2006,2006,2006-01-01 00:00:00
+San Diego Marriott_2008,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,32.83022446,-117.2713609,39.76552166,-86.16352641,2008,2005,2005,2005-01-01 00:00:00
+Science of Science Policy Workshop_2006,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,60.17160082,24.94563008,39.77021159,-86.16122929,2006,2006,2006,2006-01-01 00:00:00
+Purdue University_2011,Workshop_2010,Katy Borner,1,2010 to 2014,39.77161587,-86.16296103,38.89652172,-77.03893099,2011,2010,2010,2010-01-01 00:00:00
+Remote_2023,UQÀM_2022,Katy Borner,1,2020 to 2024,39.1758163,-86.52530871,45.50484397,-73.57396828,2023,2022,2022,2022-01-01 00:00:00
+Remote_2023,University Collections at McCalla_2024,Katy Borner,1,2020 to 2024,39.1758163,-86.52530871,39.16579478,-86.53735204,2023,2024,2023,2023-01-01 00:00:00
+"ASTC Annual Conference, Museum of Science and Industry_2016",Bates College_2017,Katy Borner,1,2015 to 2019,27.9436484,-82.45654301,44.10390222,-70.21391873,2016,2017,2016,2016-01-01 00:00:00
+"ASTC Annual Conference, Museum of Science and Industry_2016","CNS, Indiana University_2015",Katy Borner,1,2015 to 2019,27.9436484,-82.45654301,39.16595119,-86.53916747,2016,2015,2015,2015-01-01 00:00:00
+"ASTC Annual Conference, Museum of Science and Industry_2016",Cyberinfrastructure for Network Science Center_2016,Katy Borner,1,2015 to 2019,27.9436484,-82.45654301,39.16344738,-86.53214001,2016,2016,2016,2016-01-01 00:00:00
+"ASTC Annual Conference, Museum of Science and Industry_2016",European Forum Alpbach_2017,Katy Borner,1,2015 to 2019,27.9436484,-82.45654301,48.2063476,16.37011046,2016,2017,2016,2016-01-01 00:00:00
+"ASTC Annual Conference, Museum of Science and Industry_2016",International School and Conference on Network Science_2017,Katy Borner,1,2015 to 2019,27.9436484,-82.45654301,39.76419695,-86.16093042,2016,2017,2016,2016-01-01 00:00:00
+AAAS Annual Meeting_2011,Purdue University_2011,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,39.77161587,-86.16296103,2011,2011,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,35.69154502,-105.9316778,2011,2011,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,Northwestern University_2011,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,41.87198984,-87.62931502,2011,2011,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,UCD Conference_2010,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,53.35328861,-6.264808522,2011,2010,2010,2010-01-01 00:00:00
+AAAS Annual Meeting_2011,University of Florida_2010,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,29.64945102,-82.31660241,2011,2010,2010,2010-01-01 00:00:00
+AAAS Annual Meeting_2011,University of North Carolina_2011,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,35.23202548,-80.84695165,2011,2011,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,40.44276457,-79.99514662,2011,2012,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,Workshop_2010,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,38.89652172,-77.03893099,2011,2010,2010,2010-01-01 00:00:00
+AAAS Annual Meeting_2011,Kavli Royal Society International Center_2010,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,51.50084332,-0.132045719,2011,2010,2010,2010-01-01 00:00:00
+AAAS Annual Meeting_2011,National Academy of Science Workshop_2010,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,38.89764651,-77.03618487,2011,2010,2010,2010-01-01 00:00:00
+AAAS Annual Meeting_2011,National Academy of Sciences_2011,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,38.87560932,-77.09326177,2011,2011,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,38.89117267,-77.03555228,2011,2013,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,38.88880811,-77.04481698,2011,2012,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,38.89126812,-77.03682062,2011,2011,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2015,International School and Conference on Network Science_2017,Katy Borner,1,2015 to 2019,37.33423973,-121.8991418,39.76419695,-86.16093042,2015,2017,2015,2015-01-01 00:00:00
+AAAS Annual Meeting_2015,"ASTC Annual Conference, Museum of Science and Industry_2016",Katy Borner,1,2015 to 2019,37.33423973,-121.8991418,27.9436484,-82.45654301,2015,2016,2015,2015-01-01 00:00:00
+AAAS Annual Meeting_2015,Bates College_2017,Katy Borner,1,2015 to 2019,37.33423973,-121.8991418,44.10390222,-70.21391873,2015,2017,2015,2015-01-01 00:00:00
+AAAS Annual Meeting_2015,"CNS, Indiana University_2015",Katy Borner,1,2015 to 2019,37.33423973,-121.8991418,39.16595119,-86.53916747,2015,2015,2015,2015-01-01 00:00:00
+AAAS Annual Meeting_2015,Cyberinfrastructure for Network Science Center_2016,Katy Borner,1,2015 to 2019,37.33423973,-121.8991418,39.16344738,-86.53214001,2015,2016,2015,2015-01-01 00:00:00
+AAAS Annual Meeting_2015,European Forum Alpbach_2017,Katy Borner,1,2015 to 2019,37.33423973,-121.8991418,48.2063476,16.37011046,2015,2017,2015,2015-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,40.70391394,-73.82247429,2005,2009,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,35.67535458,139.7567834,2005,2007,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,40.86115082,-73.43750812,2005,2006,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,52.36888351,4.888075309,2005,2007,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,40.71384544,-73.82887484,2005,2006,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,40.71529336,-73.82546021,2005,2008,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,29.55674144,-98.53572578,2005,2005,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,36.01216318,-84.27083964,2005,2008,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,32.83022446,-117.2713609,2005,2008,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,60.17160082,24.94563008,2005,2006,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,35.67628186,139.7601129,2005,2007,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,National Cancer Institute_2006,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,38.88893258,-77.03498645,2005,2006,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,33.74598921,-84.39163966,2005,2006,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,International Conference on Complex Systems_2006,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,42.35014485,-71.06175618,2005,2006,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,Information Visualization Conference_2005,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,51.51128277,-0.133061368,2005,2005,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,"Institute for the Future Workshop, Rockefeller Foundation_2006",Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,40.70697313,-74.00866771,2005,2006,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,International Conference of the International Society for Scientometrics and Informetrics_2005,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,59.32783,18.07586921,2005,2005,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,Modeling Science Workshop_2009,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,52.38009357,4.89845947,2005,2009,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,Monroe County Public Library_2007,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,39.16875769,-86.53432796,2005,2007,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,39.77021159,-86.16122929,2005,2006,2005,2005-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,40.06909293,-88.22313709,2005,2005,2005,2005-01-01 00:00:00
+Bates College_2017,International School and Conference on Network Science_2017,Katy Borner,1,2015 to 2019,44.10390222,-70.21391873,39.76419695,-86.16093042,2017,2017,2017,2017-01-01 00:00:00
+Bates College_2017,European Forum Alpbach_2017,Katy Borner,1,2015 to 2019,44.10390222,-70.21391873,48.2063476,16.37011046,2017,2017,2017,2017-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,39.76552166,-86.16352641,2005,2005,2005,2005-01-01 00:00:00
+Bates College_2017,"CNS, Indiana University_2015",Katy Borner,1,2015 to 2019,44.10390222,-70.21391873,39.16595119,-86.53916747,2017,2015,2015,2015-01-01 00:00:00
+Bates College_2017,Cyberinfrastructure for Network Science Center_2016,Katy Borner,1,2015 to 2019,44.10390222,-70.21391873,39.16344738,-86.53214001,2017,2016,2016,2016-01-01 00:00:00
+Annual Meeting of the Society for Social Studies of Sciences_2005,IBM Palisades_2006,Katy Borner,1,2005 to 2009,34.14922194,-118.1501444,41.01821466,-73.90814486,2005,2006,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,Information Visualization Conference_2005,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,51.51128277,-0.133061368,2005,2005,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,"Institute for the Future Workshop, Rockefeller Foundation_2006",Katy Borner,1,2005 to 2009,45.65726365,13.78062646,40.70697313,-74.00866771,2005,2006,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,International Conference of the International Society for Scientometrics and Informetrics_2005,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,59.32783,18.07586921,2005,2005,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,International Conference on Complex Systems_2006,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,42.35014485,-71.06175618,2005,2006,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,IBM Palisades_2006,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,41.01821466,-73.90814486,2005,2006,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,Modeling Science Workshop_2009,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,52.38009357,4.89845947,2005,2009,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,Monroe County Public Library_2007,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,39.16875769,-86.53432796,2005,2007,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,29.55674144,-98.53572578,2005,2005,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,Annual Meeting of the Society for Social Studies of Sciences_2005,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,34.14922194,-118.1501444,2005,2005,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,National Cancer Institute_2006,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,38.88893258,-77.03498645,2005,2006,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,35.67628186,139.7601129,2005,2007,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,39.76552166,-86.16352641,2005,2005,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,40.06909293,-88.22313709,2005,2005,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,35.67535458,139.7567834,2005,2007,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,45.65726365,13.78062646,40.86115082,-73.43750812,2005,2006,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,52.36888351,4.888075309,2005,2007,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,40.71384544,-73.82887484,2005,2006,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,40.71529336,-73.82546021,2005,2008,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,40.70391394,-73.82247429,2005,2009,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,36.01216318,-84.27083964,2005,2008,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,45.65726365,13.78062646,33.74598921,-84.39163966,2005,2006,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,32.83022446,-117.2713609,2005,2008,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,45.65726365,13.78062646,60.17160082,24.94563008,2005,2006,2005,2005-01-01 00:00:00
+Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,45.65726365,13.78062646,39.77021159,-86.16122929,2005,2006,2005,2005-01-01 00:00:00
+AAAS Annual Meeting_2011,Japan Science and Technology Agency_2010,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,35.67922806,139.752839,2011,2010,2010,2010-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,IBM Palisades_2006,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,41.01821466,-73.90814486,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,Information Visualization Conference_2005,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,51.51128277,-0.133061368,2007,2005,2005,2005-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,"Institute for the Future Workshop, Rockefeller Foundation_2006",Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,40.70697313,-74.00866771,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,Annual Meeting of the Society for Social Studies of Sciences_2005,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,34.14922194,-118.1501444,2007,2005,2005,2005-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,45.65726365,13.78062646,2007,2005,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,40.06909293,-88.22313709,2005,2005,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,39.76552166,-86.16352641,2005,2005,2005,2005-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,11th International Conference on Information Visualization_2007,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,47.37290284,8.534128201,2007,2007,2007,2007-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,International Conference of the International Society for Scientometrics and Informetrics_2005,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,59.32783,18.07586921,2007,2005,2005,2005-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,International Conference on Complex Systems_2006,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,42.35014485,-71.06175618,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,33.74598921,-84.39163966,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,32.83022446,-117.2713609,2007,2008,2007,2007-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,60.17160082,24.94563008,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,39.77021159,-86.16122929,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,40.06909293,-88.22313709,2007,2005,2005,2005-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,36.01216318,-84.27083964,2007,2008,2007,2007-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,40.70391394,-73.82247429,2007,2009,2007,2007-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,National Cancer Institute_2006,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,38.88893258,-77.03498645,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,Modeling Science Workshop_2009,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,52.38009357,4.89845947,2007,2009,2007,2007-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,Monroe County Public Library_2007,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,39.16875769,-86.53432796,2007,2007,2007,2007-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,29.55674144,-98.53572578,2007,2005,2005,2005-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,40.71529336,-73.82546021,2007,2008,2007,2007-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,35.67628186,139.7601129,2007,2007,2007,2007-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,35.67535458,139.7567834,2007,2007,2007,2007-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,40.86115082,-73.43750812,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,52.36888351,4.888075309,2007,2007,2007,2007-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,40.71384544,-73.82887484,2007,2006,2006,2006-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,33.74598921,-84.39163966,2005,2006,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,39.77021159,-86.16122929,2005,2006,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,11th International Conference of the International Society for Scientometrics and Informetrics_2007,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,40.4213611,-3.704534193,2005,2007,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,11th International Conference on Information Visualization_2007,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,47.37290284,8.534128201,2005,2007,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,45.65726365,13.78062646,2005,2005,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,Annual Meeting of the Society for Social Studies of Sciences_2005,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,34.14922194,-118.1501444,2005,2005,2005,2005-01-01 00:00:00
+National Science Foundation_2013,US National Institute of Standards and Technology (NIST)_2012,Deborah MacPherson,1,2010 to 2014,38.88223356,-77.11855166,39.13568473,-77.20138382,2013,2012,2012,2012-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,National Science Foundation_2006,Deborah MacPherson,1,2005 to 2009,39.74171997,-104.9951992,38.89231489,-77.03347187,2005,2006,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,U.S. Census Bureau and World Bank Seminar_2009,Deborah MacPherson,1,2005 to 2009,39.74171997,-104.9951992,38.89654454,-77.03870549,2005,2009,2005,2005-01-01 00:00:00
+ESRI DC Office Vienna_2005,National Institutes of Health_2006,Deborah MacPherson,1,2005 to 2009,38.88641221,-77.03707785,38.89559141,-77.03275516,2005,2006,2005,2005-01-01 00:00:00
+ESRI DC Office Vienna_2005,National Science Foundation_2006,Deborah MacPherson,1,2005 to 2009,38.88641221,-77.03707785,38.89231489,-77.03347187,2005,2006,2005,2005-01-01 00:00:00
+ESRI DC Office Vienna_2005,U.S. Census Bureau and World Bank Seminar_2009,Deborah MacPherson,1,2005 to 2009,38.88641221,-77.03707785,38.89654454,-77.03870549,2005,2009,2005,2005-01-01 00:00:00
+National Science Foundation_2006,U.S. Census Bureau and World Bank Seminar_2009,Deborah MacPherson,1,2005 to 2009,38.89231489,-77.03347187,38.89654454,-77.03870549,2006,2009,2006,2006-01-01 00:00:00
+National Institutes of Health_2006,National Science Foundation_2006,Deborah MacPherson,1,2005 to 2009,38.89559141,-77.03275516,38.89231489,-77.03347187,2006,2006,2006,2006-01-01 00:00:00
+National Institutes of Health_2006,U.S. Census Bureau and World Bank Seminar_2009,Deborah MacPherson,1,2005 to 2009,38.89559141,-77.03275516,38.89654454,-77.03870549,2006,2009,2006,2006-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,60.17160082,24.94563008,2005,2006,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,40.71384544,-73.82887484,2005,2006,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,29.55674144,-98.53572578,2005,2005,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,35.67628186,139.7601129,2005,2007,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,35.67535458,139.7567834,2005,2007,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,40.86115082,-73.43750812,2005,2006,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,52.36888351,4.888075309,2005,2007,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,40.71529336,-73.82546021,2005,2008,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,40.70391394,-73.82247429,2005,2009,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,36.01216318,-84.27083964,2005,2008,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,32.83022446,-117.2713609,2005,2008,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,National Cancer Institute_2006,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,38.88893258,-77.03498645,2005,2006,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,"Institute for the Future Workshop, Rockefeller Foundation_2006",Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,40.70697313,-74.00866771,2005,2006,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,IBM Palisades_2006,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,41.01821466,-73.90814486,2005,2006,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,Information Visualization Conference_2005,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,51.51128277,-0.133061368,2005,2005,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,International Conference of the International Society for Scientometrics and Informetrics_2005,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,59.32783,18.07586921,2005,2005,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,International Conference on Complex Systems_2006,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,42.35014485,-71.06175618,2005,2006,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,Modeling Science Workshop_2009,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,52.38009357,4.89845947,2005,2009,2005,2005-01-01 00:00:00
+101st Annual Meeting of the Association of American Geographer_2005,Monroe County Public Library_2007,Katy Borner,1,2005 to 2009,39.74171997,-104.9951992,39.16875769,-86.53432796,2005,2007,2005,2005-01-01 00:00:00
+11th International Conference of the International Society for Scientometrics and Informetrics_2007,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,40.4213611,-3.704534193,39.76552166,-86.16352641,2007,2005,2005,2005-01-01 00:00:00
+15th International Conference of the International Society for Scientometrics and Informetrics_2015,European Forum Alpbach_2017,Katy Borner,1,2015 to 2019,41.01044531,28.96666713,48.2063476,16.37011046,2015,2017,2015,2015-01-01 00:00:00
+15th International Conference of the International Society for Scientometrics and Informetrics_2015,International School and Conference on Network Science_2017,Katy Borner,1,2015 to 2019,41.01044531,28.96666713,39.76419695,-86.16093042,2015,2017,2015,2015-01-01 00:00:00
+AAAS Annual Meeting_2011,Challenges of Visualizing Biological Data Workshop_2010,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,51.44761745,-2.593146821,2011,2010,2010,2010-01-01 00:00:00
+AAAS Annual Meeting_2011,Collaboration visit_2011,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,47.3765128,8.534818926,2011,2011,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,Gordon Research Conference at Bryant University_2011,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,39.73800946,-104.9815902,2011,2011,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,IU Cinema_2014,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,39.15083326,-86.54207125,2011,2014,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,Indiana University_2012,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,39.16896619,-86.53392151,2011,2012,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,Indiana University_2014,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,39.15988889,-86.52580582,2011,2014,2011,2011-01-01 00:00:00
+AAAS Annual Meeting_2011,Buskirk-Chumley_2013,Katy Borner,1,2010 to 2014,38.89650216,-77.03789207,39.17271743,-86.53982073,2011,2013,2011,2011-01-01 00:00:00
+15th International Conference of the International Society for Scientometrics and Informetrics_2015,Cyberinfrastructure for Network Science Center_2016,Katy Borner,1,2015 to 2019,41.01044531,28.96666713,39.16344738,-86.53214001,2015,2016,2015,2015-01-01 00:00:00
+11th International Conference on Information Visualization_2007,Information Visualization Conference_2005,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,51.51128277,-0.133061368,2007,2005,2005,2005-01-01 00:00:00
+11th International Conference on Information Visualization_2007,"Institute for the Future Workshop, Rockefeller Foundation_2006",Katy Borner,1,2005 to 2009,47.37290284,8.534128201,40.70697313,-74.00866771,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference on Information Visualization_2007,International Conference of the International Society for Scientometrics and Informetrics_2005,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,59.32783,18.07586921,2007,2005,2005,2005-01-01 00:00:00
+11th International Conference on Information Visualization_2007,International Conference on Complex Systems_2006,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,42.35014485,-71.06175618,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference on Information Visualization_2007,Modeling Science Workshop_2009,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,52.38009357,4.89845947,2007,2009,2007,2007-01-01 00:00:00
+11th International Conference on Information Visualization_2007,Monroe County Public Library_2007,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,39.16875769,-86.53432796,2007,2007,2007,2007-01-01 00:00:00
+11th International Conference on Information Visualization_2007,National Cancer Institute_2006,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,38.88893258,-77.03498645,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference on Information Visualization_2007,IBM Palisades_2006,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,41.01821466,-73.90814486,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference on Information Visualization_2007,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,35.67628186,139.7601129,2007,2007,2007,2007-01-01 00:00:00
+11th International Conference on Information Visualization_2007,Abdus Salam International Centre for Theoretical Physics (ICTP)_2005,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,45.65726365,13.78062646,2007,2005,2005,2005-01-01 00:00:00
+11th International Conference on Information Visualization_2007,Annual Meeting of the Society for Social Studies of Sciences_2005,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,34.14922194,-118.1501444,2007,2005,2005,2005-01-01 00:00:00
+11th International Conference on Information Visualization_2007,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,29.55674144,-98.53572578,2007,2005,2005,2005-01-01 00:00:00
+11th International Conference on Information Visualization_2007,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,35.67535458,139.7567834,2007,2007,2007,2007-01-01 00:00:00
+11th International Conference on Information Visualization_2007,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,39.76552166,-86.16352641,2007,2005,2005,2005-01-01 00:00:00
+15th International Conference of the International Society for Scientometrics and Informetrics_2015,AAAS Annual Meeting_2015,Katy Borner,1,2015 to 2019,41.01044531,28.96666713,37.33423973,-121.8991418,2015,2015,2015,2015-01-01 00:00:00
+15th International Conference of the International Society for Scientometrics and Informetrics_2015,"ASTC Annual Conference, Museum of Science and Industry_2016",Katy Borner,1,2015 to 2019,41.01044531,28.96666713,27.9436484,-82.45654301,2015,2016,2015,2015-01-01 00:00:00
+15th International Conference of the International Society for Scientometrics and Informetrics_2015,Bates College_2017,Katy Borner,1,2015 to 2019,41.01044531,28.96666713,44.10390222,-70.21391873,2015,2017,2015,2015-01-01 00:00:00
+15th International Conference of the International Society for Scientometrics and Informetrics_2015,"CNS, Indiana University_2015",Katy Borner,1,2015 to 2019,41.01044531,28.96666713,39.16595119,-86.53916747,2015,2015,2015,2015-01-01 00:00:00
+11th International Conference on Information Visualization_2007,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,36.01216318,-84.27083964,2007,2008,2007,2007-01-01 00:00:00
+11th International Conference on Information Visualization_2007,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,47.37290284,8.534128201,40.86115082,-73.43750812,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference on Information Visualization_2007,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,52.36888351,4.888075309,2007,2007,2007,2007-01-01 00:00:00
+11th International Conference on Information Visualization_2007,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,40.71384544,-73.82887484,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference on Information Visualization_2007,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,40.71529336,-73.82546021,2007,2008,2007,2007-01-01 00:00:00
+11th International Conference on Information Visualization_2007,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,40.70391394,-73.82247429,2007,2009,2007,2007-01-01 00:00:00
+11th International Conference on Information Visualization_2007,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,40.06909293,-88.22313709,2007,2005,2005,2005-01-01 00:00:00
+11th International Conference on Information Visualization_2007,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,32.83022446,-117.2713609,2007,2008,2007,2007-01-01 00:00:00
+11th International Conference on Information Visualization_2007,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,47.37290284,8.534128201,60.17160082,24.94563008,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference on Information Visualization_2007,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,47.37290284,8.534128201,39.77021159,-86.16122929,2007,2006,2006,2006-01-01 00:00:00
+11th International Conference on Information Visualization_2007,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,47.37290284,8.534128201,33.74598921,-84.39163966,2007,2006,2006,2006-01-01 00:00:00
+European Forum Alpbach_2017,International School and Conference on Network Science_2017,Katy Borner,1,2015 to 2019,48.2063476,16.37011046,39.76419695,-86.16093042,2017,2017,2017,2017-01-01 00:00:00
+DZHW_2022,Remote_2023,Katy Borner,1,2020 to 2024,52.5111199,13.40139896,39.1758163,-86.52530871,2022,2023,2022,2022-01-01 00:00:00
+DZHW_2022,UQÀM_2022,Katy Borner,1,2020 to 2024,52.5111199,13.40139896,45.50484397,-73.57396828,2022,2022,2022,2022-01-01 00:00:00
+DZHW_2022,University Collections at McCalla_2024,Katy Borner,1,2020 to 2024,52.5111199,13.40139896,39.16579478,-86.53735204,2022,2024,2022,2022-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,IU Cinema_2014,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,39.15083326,-86.54207125,2011,2014,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,Indiana University_2012,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,39.16896619,-86.53392151,2011,2012,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,Indiana University_2014,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,39.15988889,-86.52580582,2011,2014,2011,2011-01-01 00:00:00
+Cyberinfrastructure for Network Science Center_2016,International School and Conference on Network Science_2017,Katy Borner,1,2015 to 2019,39.16344738,-86.53214001,39.76419695,-86.16093042,2016,2017,2016,2016-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,Japan Science and Technology Agency_2010,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,35.67922806,139.752839,2011,2010,2010,2010-01-01 00:00:00
+IU Cinema_2014,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,38.88880811,-77.04481698,2014,2012,2012,2012-01-01 00:00:00
+IU Cinema_2014,National Academy of Sciences_2011,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,38.87560932,-77.09326177,2014,2011,2011,2011-01-01 00:00:00
+IU Cinema_2014,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,38.89117267,-77.03555228,2014,2013,2013,2013-01-01 00:00:00
+IU Cinema_2014,Northwestern University_2011,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,41.87198984,-87.62931502,2014,2011,2011,2011-01-01 00:00:00
+IU Cinema_2014,National Academy of Science Workshop_2010,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,38.89764651,-77.03618487,2014,2010,2010,2010-01-01 00:00:00
+IU Cinema_2014,Indiana University_2012,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,39.16896619,-86.53392151,2014,2012,2012,2012-01-01 00:00:00
+IBM Palisades_2006,i-Light Symposium 2005_2005,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,39.76552166,-86.16352641,2006,2005,2005,2005-01-01 00:00:00
+IU Cinema_2014,Indiana University_2014,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,39.15988889,-86.52580582,2014,2014,2014,2014-01-01 00:00:00
+IU Cinema_2014,Kavli Royal Society International Center_2010,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,51.50084332,-0.132045719,2014,2010,2010,2010-01-01 00:00:00
+IU Cinema_2014,Japan Science and Technology Agency_2010,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,35.67922806,139.752839,2014,2010,2010,2010-01-01 00:00:00
+IU Cinema_2014,Purdue University_2011,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,39.77161587,-86.16296103,2014,2011,2011,2011-01-01 00:00:00
+Indiana University_2012,National Academy of Sciences_2011,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,38.87560932,-77.09326177,2012,2011,2011,2011-01-01 00:00:00
+Indiana University_2012,Japan Science and Technology Agency_2010,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,35.67922806,139.752839,2012,2010,2010,2010-01-01 00:00:00
+Indiana University_2012,Kavli Royal Society International Center_2010,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,51.50084332,-0.132045719,2012,2010,2010,2010-01-01 00:00:00
+Indiana University_2012,National Academy of Science Workshop_2010,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,38.89764651,-77.03618487,2012,2010,2010,2010-01-01 00:00:00
+Indiana University_2012,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,38.89117267,-77.03555228,2012,2013,2012,2012-01-01 00:00:00
+Indiana University_2012,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,38.88880811,-77.04481698,2012,2012,2012,2012-01-01 00:00:00
+IU Cinema_2014,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,35.69154502,-105.9316778,2014,2011,2011,2011-01-01 00:00:00
+IU Cinema_2014,UCD Conference_2010,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,53.35328861,-6.264808522,2014,2010,2010,2010-01-01 00:00:00
+IU Cinema_2014,University of Florida_2010,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,29.64945102,-82.31660241,2014,2010,2010,2010-01-01 00:00:00
+IU Cinema_2014,University of North Carolina_2011,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,35.23202548,-80.84695165,2014,2011,2011,2011-01-01 00:00:00
+IU Cinema_2014,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,40.44276457,-79.99514662,2014,2012,2012,2012-01-01 00:00:00
+IU Cinema_2014,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,38.89126812,-77.03682062,2014,2011,2011,2011-01-01 00:00:00
+IU Cinema_2014,Workshop_2010,Katy Borner,1,2010 to 2014,39.15083326,-86.54207125,38.89652172,-77.03893099,2014,2010,2010,2010-01-01 00:00:00
+Indiana University_2012,Indiana University_2014,Katy Borner,1,2010 to 2014,39.16896619,-86.53392151,39.15988889,-86.52580582,2012,2014,2012,2012-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,Kavli Royal Society International Center_2010,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,51.50084332,-0.132045719,2011,2010,2010,2010-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,35.69154502,-105.9316778,2011,2011,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,UCD Conference_2010,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,53.35328861,-6.264808522,2011,2010,2010,2010-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,University of Florida_2010,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,29.64945102,-82.31660241,2011,2010,2010,2010-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,University of North Carolina_2011,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,35.23202548,-80.84695165,2011,2011,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,40.44276457,-79.99514662,2011,2012,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,38.89126812,-77.03682062,2011,2011,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,Purdue University_2011,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,39.77161587,-86.16296103,2011,2011,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,Northwestern University_2011,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,41.87198984,-87.62931502,2011,2011,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,National Academy of Science Workshop_2010,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,38.89764651,-77.03618487,2011,2010,2010,2010-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,National Academy of Sciences_2011,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,38.87560932,-77.09326177,2011,2011,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,38.89117267,-77.03555228,2011,2013,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,38.88880811,-77.04481698,2011,2012,2011,2011-01-01 00:00:00
+Gordon Research Conference at Bryant University_2011,Workshop_2010,Katy Borner,1,2010 to 2014,39.73800946,-104.9815902,38.89652172,-77.03893099,2011,2010,2010,2010-01-01 00:00:00
+IBM Palisades_2006,This Exhibit was supported by the UIUC Center for Advanced Study as part of the Age of Networks initiative Urbana-Champaign_2005,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,40.06909293,-88.22313709,2006,2005,2005,2005-01-01 00:00:00
+IBM Palisades_2006,OSTI Meeting_2008,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,36.01216318,-84.27083964,2006,2008,2006,2006-01-01 00:00:00
+IBM Palisades_2006,"New Horizons in Internet Site Development Workshop, Banbury Center, Cold Spring Harbor Laboratory_2006",Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,40.86115082,-73.43750812,2006,2006,2006,2006-01-01 00:00:00
+IBM Palisades_2006,New Network Theory Conference Keynote_2007,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,52.36888351,4.888075309,2006,2007,2006,2006-01-01 00:00:00
+IBM Palisades_2006,New York Hall of Science_2006,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,40.71384544,-73.82887484,2006,2006,2006,2006-01-01 00:00:00
+IBM Palisades_2006,New York Hall of Science_2008,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,40.71529336,-73.82546021,2006,2008,2006,2006-01-01 00:00:00
+IBM Palisades_2006,New York Hall of Science_2009,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,40.70391394,-73.82247429,2006,2009,2006,2006-01-01 00:00:00
+IBM Palisades_2006,National Institute of Science and Technology Policy (NISTEP)_2007,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,35.67535458,139.7567834,2006,2007,2006,2006-01-01 00:00:00
+IBM Palisades_2006,San Diego Marriott_2008,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,32.83022446,-117.2713609,2006,2008,2006,2006-01-01 00:00:00
+IBM Palisades_2006,Science of Science Policy Workshop_2006,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,60.17160082,24.94563008,2006,2006,2006,2006-01-01 00:00:00
+IBM Palisades_2006,"State House, Indianapolis_2006",Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,39.77021159,-86.16122929,2006,2006,2006,2006-01-01 00:00:00
+IBM Palisades_2006,"The College of Management at Georgia Tech, Technology Square, Georgia Institute of Technology_2006",Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,33.74598921,-84.39163966,2006,2006,2006,2006-01-01 00:00:00
+IBM Palisades_2006,National Institute of Informatics_2007,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,35.67628186,139.7601129,2006,2007,2006,2006-01-01 00:00:00
+IBM Palisades_2006,Information Visualization Conference_2005,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,51.51128277,-0.133061368,2006,2005,2005,2005-01-01 00:00:00
+IBM Palisades_2006,"Institute for the Future Workshop, Rockefeller Foundation_2006",Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,40.70697313,-74.00866771,2006,2006,2006,2006-01-01 00:00:00
+IBM Palisades_2006,International Conference of the International Society for Scientometrics and Informetrics_2005,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,59.32783,18.07586921,2006,2005,2005,2005-01-01 00:00:00
+IBM Palisades_2006,International Conference on Complex Systems_2006,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,42.35014485,-71.06175618,2006,2006,2006,2006-01-01 00:00:00
+IBM Palisades_2006,National Institute of Informatics_2005,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,29.55674144,-98.53572578,2006,2005,2005,2005-01-01 00:00:00
+IBM Palisades_2006,Modeling Science Workshop_2009,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,52.38009357,4.89845947,2006,2009,2006,2006-01-01 00:00:00
+IBM Palisades_2006,Monroe County Public Library_2007,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,39.16875769,-86.53432796,2006,2007,2006,2006-01-01 00:00:00
+IBM Palisades_2006,National Cancer Institute_2006,Katy Borner,1,2005 to 2009,41.01821466,-73.90814486,38.88893258,-77.03498645,2006,2006,2006,2006-01-01 00:00:00
+"CNS, Indiana University_2015",International School and Conference on Network Science_2017,Katy Borner,1,2015 to 2019,39.16595119,-86.53916747,39.76419695,-86.16093042,2015,2017,2015,2015-01-01 00:00:00
+Buskirk-Chumley_2013,University of Florida_2010,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,29.64945102,-82.31660241,2013,2010,2010,2010-01-01 00:00:00
+Buskirk-Chumley_2013,University of North Carolina_2011,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,35.23202548,-80.84695165,2013,2011,2011,2011-01-01 00:00:00
+Buskirk-Chumley_2013,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,40.44276457,-79.99514662,2013,2012,2012,2012-01-01 00:00:00
+Buskirk-Chumley_2013,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,38.89126812,-77.03682062,2013,2011,2011,2011-01-01 00:00:00
+Buskirk-Chumley_2013,Workshop_2010,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,38.89652172,-77.03893099,2013,2010,2010,2010-01-01 00:00:00
+"CNS, Indiana University_2015",Cyberinfrastructure for Network Science Center_2016,Katy Borner,1,2015 to 2019,39.16595119,-86.53916747,39.16344738,-86.53214001,2015,2016,2015,2015-01-01 00:00:00
+"CNS, Indiana University_2015",European Forum Alpbach_2017,Katy Borner,1,2015 to 2019,39.16595119,-86.53916747,48.2063476,16.37011046,2015,2017,2015,2015-01-01 00:00:00
+Buskirk-Chumley_2013,UCD Conference_2010,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,53.35328861,-6.264808522,2013,2010,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,Collaboration visit_2011,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,47.3765128,8.534818926,2010,2011,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,Gordon Research Conference at Bryant University_2011,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,39.73800946,-104.9815902,2010,2011,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,IU Cinema_2014,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,39.15083326,-86.54207125,2010,2014,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,Indiana University_2012,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,39.16896619,-86.53392151,2010,2012,2010,2010-01-01 00:00:00
+Buskirk-Chumley_2013,Challenges of Visualizing Biological Data Workshop_2010,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,51.44761745,-2.593146821,2013,2010,2010,2010-01-01 00:00:00
+Buskirk-Chumley_2013,Collaboration visit_2011,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,47.3765128,8.534818926,2013,2011,2011,2011-01-01 00:00:00
+Buskirk-Chumley_2013,Gordon Research Conference at Bryant University_2011,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,39.73800946,-104.9815902,2013,2011,2011,2011-01-01 00:00:00
+Buskirk-Chumley_2013,Northwestern University_2011,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,41.87198984,-87.62931502,2013,2011,2011,2011-01-01 00:00:00
+Buskirk-Chumley_2013,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,38.88880811,-77.04481698,2013,2012,2012,2012-01-01 00:00:00
+Buskirk-Chumley_2013,Purdue University_2011,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,39.77161587,-86.16296103,2013,2011,2011,2011-01-01 00:00:00
+Buskirk-Chumley_2013,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,35.69154502,-105.9316778,2013,2011,2011,2011-01-01 00:00:00
+Buskirk-Chumley_2013,IU Cinema_2014,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,39.15083326,-86.54207125,2013,2014,2013,2013-01-01 00:00:00
+Buskirk-Chumley_2013,Indiana University_2012,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,39.16896619,-86.53392151,2013,2012,2012,2012-01-01 00:00:00
+Buskirk-Chumley_2013,Indiana University_2014,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,39.15988889,-86.52580582,2013,2014,2013,2013-01-01 00:00:00
+Buskirk-Chumley_2013,Japan Science and Technology Agency_2010,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,35.67922806,139.752839,2013,2010,2010,2010-01-01 00:00:00
+Buskirk-Chumley_2013,Kavli Royal Society International Center_2010,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,51.50084332,-0.132045719,2013,2010,2010,2010-01-01 00:00:00
+Buskirk-Chumley_2013,National Academy of Science Workshop_2010,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,38.89764651,-77.03618487,2013,2010,2010,2010-01-01 00:00:00
+Buskirk-Chumley_2013,National Academy of Sciences_2011,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,38.87560932,-77.09326177,2013,2011,2011,2011-01-01 00:00:00
+Buskirk-Chumley_2013,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,39.17271743,-86.53982073,38.89117267,-77.03555228,2013,2013,2013,2013-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,Indiana University_2014,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,39.15988889,-86.52580582,2010,2014,2010,2010-01-01 00:00:00
+Complexity Science Hub_2024,DZHW_2022,Katy Borner,1,2020 to 2024,47.58914538,14.12785272,52.5111199,13.40139896,2024,2022,2022,2022-01-01 00:00:00
+Collaboration visit_2011,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,35.69154502,-105.9316778,2011,2011,2011,2011-01-01 00:00:00
+Collaboration visit_2011,UCD Conference_2010,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,53.35328861,-6.264808522,2011,2010,2010,2010-01-01 00:00:00
+Collaboration visit_2011,Workshop_2010,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,38.89652172,-77.03893099,2011,2010,2010,2010-01-01 00:00:00
+Collaboration visit_2011,University of Florida_2010,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,29.64945102,-82.31660241,2011,2010,2010,2010-01-01 00:00:00
+Collaboration visit_2011,University of North Carolina_2011,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,35.23202548,-80.84695165,2011,2011,2011,2011-01-01 00:00:00
+Collaboration visit_2011,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,40.44276457,-79.99514662,2011,2012,2011,2011-01-01 00:00:00
+Collaboration visit_2011,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,38.89126812,-77.03682062,2011,2011,2011,2011-01-01 00:00:00
+Complexity Science Hub_2024,UQÀM_2022,Katy Borner,1,2020 to 2024,47.58914538,14.12785272,45.50484397,-73.57396828,2024,2022,2022,2022-01-01 00:00:00
+Complexity Science Hub_2024,University Collections at McCalla_2024,Katy Borner,1,2020 to 2024,47.58914538,14.12785272,39.16579478,-86.53735204,2024,2024,2024,2024-01-01 00:00:00
+Cyberinfrastructure for Network Science Center_2016,European Forum Alpbach_2017,Katy Borner,1,2015 to 2019,39.16344738,-86.53214001,48.2063476,16.37011046,2016,2017,2016,2016-01-01 00:00:00
+Complexity Science Hub_2024,Remote_2023,Katy Borner,1,2020 to 2024,47.58914538,14.12785272,39.1758163,-86.52530871,2024,2023,2023,2023-01-01 00:00:00
+Collaboration visit_2011,Purdue University_2011,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,39.77161587,-86.16296103,2011,2011,2011,2011-01-01 00:00:00
+Collaboration visit_2011,Northwestern University_2011,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,41.87198984,-87.62931502,2011,2011,2011,2011-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,Northwestern University_2011,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,41.87198984,-87.62931502,2010,2011,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,Purdue University_2011,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,39.77161587,-86.16296103,2010,2011,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,Scientific Mapping and Analytics_2011,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,35.69154502,-105.9316778,2010,2011,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,UCD Conference_2010,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,53.35328861,-6.264808522,2010,2010,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,University of North Carolina_2011,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,35.23202548,-80.84695165,2010,2011,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,National Academy of Science Workshop_2010,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,38.89764651,-77.03618487,2010,2010,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,Japan Science and Technology Agency_2010,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,35.67922806,139.752839,2010,2010,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,Kavli Royal Society International Center_2010,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,51.50084332,-0.132045719,2010,2010,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,National Academy of Sciences_2011,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,38.87560932,-77.09326177,2010,2011,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,38.89117267,-77.03555228,2010,2013,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,38.88880811,-77.04481698,2010,2012,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,University of Florida_2010,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,29.64945102,-82.31660241,2010,2010,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,University of Pittsburgh_2012,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,40.44276457,-79.99514662,2010,2012,2010,2010-01-01 00:00:00
+Collaboration visit_2011,National Academy of Science Workshop_2010,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,38.89764651,-77.03618487,2011,2010,2010,2010-01-01 00:00:00
+Collaboration visit_2011,National Academy of Sciences_2011,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,38.87560932,-77.09326177,2011,2011,2011,2011-01-01 00:00:00
+Collaboration visit_2011,National Academy of Sciences_2013,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,38.89117267,-77.03555228,2011,2013,2011,2011-01-01 00:00:00
+Collaboration visit_2011,Japan Science and Technology Agency_2010,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,35.67922806,139.752839,2011,2010,2010,2010-01-01 00:00:00
+Collaboration visit_2011,National Institutes of Health_2012,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,38.88880811,-77.04481698,2011,2012,2011,2011-01-01 00:00:00
+Collaboration visit_2011,Kavli Royal Society International Center_2010,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,51.50084332,-0.132045719,2011,2010,2010,2010-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,VIVO 2011 Conference_2011,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,38.89126812,-77.03682062,2010,2011,2010,2010-01-01 00:00:00
+Collaboration visit_2011,Gordon Research Conference at Bryant University_2011,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,39.73800946,-104.9815902,2011,2011,2011,2011-01-01 00:00:00
+Challenges of Visualizing Biological Data Workshop_2010,Workshop_2010,Katy Borner,1,2010 to 2014,51.44761745,-2.593146821,38.89652172,-77.03893099,2010,2010,2010,2010-01-01 00:00:00
+Collaboration visit_2011,IU Cinema_2014,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,39.15083326,-86.54207125,2011,2014,2011,2011-01-01 00:00:00
+Collaboration visit_2011,Indiana University_2012,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,39.16896619,-86.53392151,2011,2012,2011,2011-01-01 00:00:00
+Collaboration visit_2011,Indiana University_2014,Katy Borner,1,2010 to 2014,47.3765128,8.534818926,39.15988889,-86.52580582,2011,2014,2011,2011-01-01 00:00:00
+"Cook Center, Maxwell Hall_2023",Grand Hall in Maxwell Hall_2023,Linnea Holt,1,2020 to 2024,39.16737719,-86.54186682,39.17293609,-86.53327348,2023,2023,2023,2023-01-01 00:00:00
