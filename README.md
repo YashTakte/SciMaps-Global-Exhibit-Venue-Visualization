@@ -14,6 +14,14 @@ The project visualizes the global spread and network growth of exhibit venues ov
   
 ---
 
+## Visual Abstract 
+
+A visual summary capturing the key concepts and workflow of this project.
+
+![Visual Abstract Figure](https://github.com/user-attachments/assets/a4854b2e-a6f2-426f-9c78-d307d1c2c0e5)
+
+---
+
 ## Final Visualizations
 
 ### 1. Animated Timeline Map (Flourish)
