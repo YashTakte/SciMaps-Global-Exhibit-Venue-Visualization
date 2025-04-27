@@ -94,7 +94,7 @@ A visual summary capturing the key concepts and workflow of this project.
 ---
 
 ## Acknowledgements
-We acknowledge the Cyberinfrastructure for Network Science (CNS) Center and Lisel Record for their continuous feedback, support, and access to the dataset.
+We acknowledge the Cyberinfrastructure for Network Science (CNS) Center and Lisel Record for their continuous feedback, support, and access to the dataset. We also thank Venkata Naga Sreya Kolachalama, Teaching Assistant for the Information Visualization course, for her valuable suggestions and insightful ideas that contributed to the improvement of this project.
 
 ---
 
