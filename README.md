@@ -40,6 +40,7 @@ A visual summary capturing the key concepts and workflow of this project.
   - Clustered markers
   - Time interval filtering (e.g., 2005–2009)
   - Heatmap view
+  - **Live Demo:** [View Interactive Map](https://public.flourish.studio/visualisation/22489882/)
     
 - **Screenshot:**
   
@@ -74,6 +75,7 @@ A visual summary capturing the key concepts and workflow of this project.
 - Combines geospatial and network data into one integrated visualization.
 - Allows filtering by year using an animated timeline slicer.
 - Explore venue connections dynamically across time.
+- **Live Demo:** [View Overlay Analysis](https://public.flourish.studio/visualisation/22489882/)
   
 - **Screenshot:**
 
